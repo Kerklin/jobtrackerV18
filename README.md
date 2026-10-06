@@ -1,6 +1,6 @@
 # Job tracker
 
-**22 open jobs** · updated 2026-10-06 · six agents check every 5 minutes · sources working today: 6 of 12 · AI today: 2 of 130 requests
+**23 open jobs** · updated 2026-10-06 · six agents check every 5 minutes · sources working today: 6 of 12 · AI today: 4 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -13,6 +13,7 @@
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 15 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) 🆕 | via unvacancies · UN-Habitat | 2026-10-21 | 15 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) 🆕 | via unvacancies · UNOPS | 2026-10-30 | 24 days | 🟡 Medium |
+| [Superviseurs Multisectoriels SAME /WASH - Bassikounou, Bassikounou, Mauritania](https://unjobs.org/vacancies/1791297050460) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Project Manager, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1789649136938) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium |
 | [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium |
 | [Facilities Coordination Officer](https://unjobs.org/vacancies/1790857799155) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
