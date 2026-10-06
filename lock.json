@@ -1,0 +1,27 @@
+{
+ "v": 18,
+ "rev": 1,
+ "day": "2026-10-06",
+ "used": {
+  "high": 3,
+  "low": 2
+ },
+ "hour": "2026-10-06T16",
+ "hour_used": 5,
+ "blocked": {},
+ "last_call": 0,
+ "holder": "v18-37492816590-1",
+ "expires": 1791304208.1669562,
+ "fail_streak": 0,
+ "paused_until": 0,
+ "packs": {},
+ "seen": {},
+ "packs_day": "2026-10-06",
+ "packs_today": 0,
+ "search_day": "",
+ "search_today": 0,
+ "search_month": "",
+ "search_month_used": 0,
+ "mail_fail": 0,
+ "digest_day": ""
+}
