@@ -1,0 +1,121 @@
+# V18 – six agents working together on one private GitHub runner:
+#   1 Job Scout · 2 Fit & HR Screener · 3 CV Writer · 4 Cover Letter Writer · 5 Salary Analyst · 6 Employer Email Writer
+# They hand work to each other through the runner's temporary folder (deleted after every run).
+# Setup: SETUP.md. Code: agents/. No third-party actions are used.
+# Emergency stop: repository variable AI_ENABLED = no.
+
+name: V18
+
+on:
+  schedule:
+    - cron: "2-59/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      job_url:
+        description: "Optional: one job's own link – the six agents make its full application pack now"
+        required: false
+        type: string
+      language:
+        description: "Language of the CV, letter and email"
+        required: false
+        type: choice
+        default: auto
+        options: [auto, English, Bosnian, French]
+      focus:
+        description: "Optional: what to emphasise (must be true)"
+        required: false
+        type: string
+      digest:
+        description: "Send the fit digest now"
+        required: false
+        type: boolean
+        default: false
+
+permissions: {}
+
+concurrency:
+  group: v18-${{ github.event_name == 'schedule' && 'auto' || github.run_id }}
+  cancel-in-progress: false
+
+jobs:
+  team:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+      issues: write
+      models: read
+    env:
+      PAGE_TITLE: "Job tracker"   # heading of the public front page
+      PACK_MIN_FIT: "65"          # automatic packs only for fit ≥ this score (40-100)
+      PACKS_PER_DAY: "10"         # max 20 (5 AI requests each)
+      DIGEST_HOUR_UTC: "5"        # daily fit digest after this hour (5 UTC = 7:00 Central European summer time)
+      PUBLIC_FIT: "yes"           # "no" hides the coarse High/Medium/Low label on the public page
+      AI_HIGH_PER_DAY: "30"       # max 35
+      AI_LOW_PER_DAY: "100"       # max 110
+      AI_PER_HOUR: "15"           # max 20
+      SEARCH_WORDS: "construction, infrastructure, engineer, architect, rehabilitation, reconstruction, shelter, housing, site supervision, project manager, programme manager, contract manager, facilities, heritage, wash"
+      FEEDS: |
+        # Optional: extra RSS or job-board links, one per line, under this one:
+      GH_TOKEN: ${{ github.token }}
+      AI_ENABLED: ${{ vars.AI_ENABLED || 'yes' }}
+      MASTER_CV: ${{ secrets.MASTER_CV }}
+      MAIL_USER: ${{ secrets.MAIL_USER }}
+      MAIL_PASS: ${{ secrets.MAIL_PASS }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      BACKUP_KEY: ${{ secrets.BACKUP_KEY }}
+      SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
+    defaults:
+      run:
+        working-directory: work
+    steps:
+      - name: Get the code
+        working-directory: .
+        run: |
+          AUTH="$(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)"
+          echo "::add-mask::$AUTH"
+          git init -q work && cd work
+          git config http.https://github.com/.extraheader "AUTHORIZATION: basic $AUTH"
+          git remote add origin "${REMOTE_URL:-https://github.com/$GITHUB_REPOSITORY.git}"
+          git fetch -q --depth=1 origin "$GITHUB_REF_NAME"
+          git checkout -q -B "$GITHUB_REF_NAME" FETCH_HEAD
+
+      - name: "Agent 1 · Job Scout"
+        timeout-minutes: 6
+        run: python3 agents/a1_scout.py
+
+      - name: "Agent 2 · Fit & HR Screener"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 6
+        run: python3 agents/a2_fit.py
+
+      - name: "Agent 3 · CV Writer"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 5
+        run: python3 agents/a3_cv.py
+
+      - name: "Agent 4 · Cover Letter Writer"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 5
+        run: python3 agents/a4_letter.py
+
+      - name: "Agent 5 · Salary Analyst"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 5
+        run: python3 agents/a5_salary.py
+
+      - name: "Agent 6 · Employer Email Writer"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 5
+        run: python3 agents/a6_email.py
+
+      - name: "Finish · release AI lock, fit digest, public page"
+        if: ${{ !cancelled() }}
+        timeout-minutes: 4
+        run: python3 agents/finish.py
+
+      - name: Save
+        if: ${{ !cancelled() }}
+        timeout-minutes: 3
+        run: python3 agents/save.py
