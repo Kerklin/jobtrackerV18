@@ -1,13 +1,13 @@
 {
  "v": 18,
- "rev": 7,
+ "rev": 8,
  "day": "2026-10-07",
  "used": {
   "high": 2,
   "low": 0
  },
- "hour": "2026-10-07T00",
- "hour_used": 2,
+ "hour": "2026-10-07T06",
+ "hour_used": 0,
  "blocked": {},
  "last_call": 1791332086.6308737,
  "holder": "",
@@ -30,5 +30,5 @@
  "search_month": "2026-10",
  "search_month_used": 0,
  "mail_fail": 0,
- "digest_day": "2026-10-06"
+ "digest_day": "2026-10-07"
 }
