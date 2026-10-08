@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791394751777",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-08",
+   "status": "open"
+  },
+  {
+   "title": "SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791394768869",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-08",
+   "status": "open"
+  },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
    "info": "via UNjobs · construction",
