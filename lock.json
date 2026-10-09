@@ -1,18 +1,18 @@
 {
  "v": 18,
- "rev": 25,
+ "rev": 26,
  "day": "2026-10-09",
  "used": {
-  "high": 5,
-  "low": 2
+  "high": 4,
+  "low": 0
  },
  "hour": "2026-10-09T14",
- "hour_used": 5,
+ "hour_used": 2,
  "blocked": {},
- "last_call": 1791532054.5742366,
- "holder": "v18-37946133037-1",
- "expires": 1791558433.0581462,
- "fail_streak": 1,
+ "last_call": 1791556944.8079412,
+ "holder": "",
+ "expires": 0,
+ "fail_streak": 2,
  "paused_until": 1791517457.3970635,
  "packs": {
   "kd6781ab1c62b70de800419aa": {
@@ -24,6 +24,12 @@
   "k870d8a213df1f6b3aea73fd4": {
    "s": "",
    "tries": 5,
+   "next": "2026-10-09",
+   "day": "2026-10-09"
+  },
+  "kfece6334e22a4fb977e9b90b": {
+   "s": "",
+   "tries": 1,
    "next": "2026-10-09",
    "day": "2026-10-09"
   }
