@@ -1,6 +1,6 @@
 # Job tracker
 
-**37 open jobs** · updated 2026-10-10 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 4 of 130 requests
+**38 open jobs** · updated 2026-10-10 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 6 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -15,6 +15,7 @@
 | [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) | via UNjobs · construction | – | check | 🟢 High |
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
+| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) 🆕 | via unvacancies · UN-Habitat | 2026-10-16 | 🔴 6 days | 🟡 Medium |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 10 days | 🟡 Medium |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 11 days | 🟡 Medium |
