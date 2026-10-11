@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**38 open jobs** · updated 2026-10-11 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 4 of 130 requests
+**39 open jobs** · updated 2026-10-11 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 4 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|
 | [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | 🔴 2 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 9 days | 🟢 High |
+| [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) 🆕 | via unvacancies · engineering | 2026-10-26 | 15 days | 🟢 High |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) | via UNjobs · construction | – | check | 🟢 High |
 | [SMS Technical Assistant (Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394768869) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant (HARD) DR Congo Beni](https://unjobs.org/vacancies/1791392501705) | via UNjobs · construction | – | check | 🟢 High |
