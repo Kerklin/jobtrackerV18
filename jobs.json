@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-11T3"
+    "muted": "2026-10-14T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-13T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-11",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "AI Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
+   "deadline": "2026-10-19",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
    "info": "via UNjobs · construction",
