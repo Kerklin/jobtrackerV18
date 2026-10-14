@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**56 open jobs** · updated 2026-10-14 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**62 open jobs** · updated 2026-10-14 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -13,6 +13,12 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 9 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 12 days | 🟢 High |
+| [Shelter and Settlement Assistant, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910845431) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Wash Technical Assistant Ethiopia North Afar](https://unjobs.org/vacancies/1791997248968) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Specialist, Negelle](https://unjobs.org/vacancies/1791983259890) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer, Abala, Ethiopia](https://unjobs.org/vacancies/1791983321611) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer, Abala, Ethiopia](https://unjobs.org/vacancies/1791983321169) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Humanitarian WASH Technical Advisor, Addis Ababa](https://unjobs.org/vacancies/1791983279840) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Manager, Sustainable Infrastructure - Oil and Gas, United States](https://unjobs.org/vacancies/1791968018522) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Manager, Sustainable Infrastructure - Oil and Gas, London](https://unjobs.org/vacancies/1791968018128) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Business Development & Programme Manager, London](https://unjobs.org/vacancies/1791968009622) 🆕 | via UNjobs · construction | – | check | 🟢 High |
