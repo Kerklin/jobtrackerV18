@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-14T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-14",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968019122",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Environment, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018730",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Oil and Gas, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018522",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure - Oil and Gas, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968018128",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
+  {
+   "title": "Business Development & Programme Manager, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791968009622",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-14",
+   "status": "open"
+  },
   {
    "title": "AI Engineer Consultant",
    "info": "via unvacancies · engineering",
