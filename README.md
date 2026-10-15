@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**62 open jobs** · updated 2026-10-15 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**73 open jobs** · updated 2026-10-15 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -13,6 +13,12 @@
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) 🆕 | via UNjobs · construction | 2026-10-23 | 8 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) 🆕 | via UNjobs · construction | 2026-10-23 | 8 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 11 days | 🟢 High |
+| [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867671241) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Assistant South Sudan Uror](https://unjobs.org/vacancies/1791910841180) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Shelter and Settlement Officer, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910842362) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Shelter and Settlement Assistant, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910845431) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Wash Technical Assistant Ethiopia North Afar](https://unjobs.org/vacancies/1791997248968) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Specialist, Negelle](https://unjobs.org/vacancies/1791983259890) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -42,6 +48,11 @@
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 6 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 6 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 15 days | 🟡 Medium |
+| [Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867668525) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867670024) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792058510450) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Emergency WASH Officer, Kyiv](https://unjobs.org/vacancies/1792058500199) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Manager, Sustainable Infrastructure - Environment, United States](https://unjobs.org/vacancies/1791968019122) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Manager, Sustainable Infrastructure - Environment, London](https://unjobs.org/vacancies/1791968018730) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791396181599) | via UNjobs · construction | – | check | 🟡 Medium |
