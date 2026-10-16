@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**73 open jobs** · updated 2026-10-16 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**74 open jobs** · updated 2026-10-16 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -47,6 +47,7 @@
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
 | [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 5 days | 🟡 Medium |
+| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) 🆕 | via unvacancies · UNOPS | 2026-10-22 | 🔴 6 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 14 days | 🟡 Medium |
 | [Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867668525) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867670024) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
