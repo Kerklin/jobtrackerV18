@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**74 open jobs** · updated 2026-10-16 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**76 open jobs** · updated 2026-10-16 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -12,7 +12,9 @@
 | [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 🔴 4 days | 🟢 High |
 | [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
 | [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 7 days | 🟢 High |
+| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) 🆕 | via unvacancies · UNOPS | 2026-10-26 | 10 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 10 days | 🟢 High |
+| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) 🆕 | via unvacancies · UNOPS | 2026-11-01 | 16 days | 🟢 High |
 | [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟢 High |
