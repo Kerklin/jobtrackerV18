@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**79 open jobs** · updated 2026-10-18 · six agents check every 5 minutes · sources working today: 5 of 12 · AI today: 0 of 130 requests
+**88 open jobs** · updated 2026-10-18 · six agents check every 5 minutes · sources working today: 6 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -15,6 +15,10 @@
 | [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) 🆕 | via unvacancies · UNOPS | 2026-10-26 | 8 days | 🟢 High |
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 8 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) 🆕 | via unvacancies · UNOPS | 2026-11-01 | 14 days | 🟢 High |
+| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://unjobs.org/vacancies/1792342830610) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Senior Safeguards Coordinator, Infrastructure, Port Moresby](https://unjobs.org/vacancies/1792126888621) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Infrastructure Short Term Adviser (STA)](https://unjobs.org/vacancies/1792126888482) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) | via UNjobs · construction | – | check | 🟢 High |
@@ -54,6 +58,11 @@
 | [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) 🆕 | via unvacancies · engineering | 2026-10-28 | 10 days | 🟡 Medium |
 | [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 12 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) 🆕 | via unvacancies · engineering | 2026-11-16 | 29 days | 🟡 Medium |
+| [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)](https://unjobs.org/vacancies/1792083758670) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867668525) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867670024) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) | via UNjobs · construction | – | check | 🟡 Medium |

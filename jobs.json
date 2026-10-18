@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-18T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792342830610",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Mobile Test Site Project Manager, Esparto, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792191044913",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087264868",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792087267794",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083758670",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Senior Safeguards Coordinator, Infrastructure, Port Moresby",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792126888621",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Infrastructure Short Term Adviser (STA)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792126888482",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Construction & Site Manager, Menongue, Angola",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792155785200",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-18",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792144906524",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-18",
+   "status": "open"
+  },
   {
    "title": "Field Office Engineer",
    "info": "via unvacancies · engineering",
