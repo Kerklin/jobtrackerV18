@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T0"
+    "muted": "2026-10-21T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Telecommunications/ Network Engineer - Internally for UNRWA staff only",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364",
+   "deadline": "2026-11-02",
+   "fit": "Medium",
+   "found": "2026-10-21",
+   "status": "open"
+  },
   {
    "title": "Assistant Architect Design",
    "info": "via unvacancies · engineering",
