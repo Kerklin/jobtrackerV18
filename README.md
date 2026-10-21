@@ -2,21 +2,20 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**102 open jobs** · updated 2026-10-20 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**101 open jobs** · updated 2026-10-21 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | 🔴 0 days | 🟢 High |
-| [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 3 days | 🟢 High |
-| [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 3 days | 🟢 High |
-| [Structural Engineer](https://unvacancies.org/jobs/structural-engineer-N-286748) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 5 days | 🟢 High |
-| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 5 days | 🟢 High |
-| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | 🔴 6 days | 🟢 High |
-| [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 6 days | 🟢 High |
-| [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) 🆕 | via unvacancies · engineering | 2026-11-01 | 12 days | 🟢 High |
-| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 12 days | 🟢 High |
+| [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | 🔴 2 days | 🟢 High |
+| [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | 🔴 2 days | 🟢 High |
+| [Structural Engineer](https://unvacancies.org/jobs/structural-engineer-N-286748) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 4 days | 🟢 High |
+| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) 🆕 | via unvacancies · engineering | 2026-10-25 | 🔴 4 days | 🟢 High |
+| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | 🔴 5 days | 🟢 High |
+| [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 5 days | 🟢 High |
+| [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) 🆕 | via unvacancies · engineering | 2026-11-01 | 11 days | 🟢 High |
+| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 11 days | 🟢 High |
 | [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -24,10 +23,10 @@
 | [Project Engineer, Abyei, South Sudan](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396939881) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://unjobs.org/vacancies/1792342830610) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Senior Safeguards Coordinator, Infrastructure, Port Moresby](https://unjobs.org/vacancies/1792126888621) 🆕 | via UNjobs · construction | – | check | 🟢 High |
-| [Infrastructure Short Term Adviser (STA)](https://unjobs.org/vacancies/1792126888482) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://unjobs.org/vacancies/1792342830610) | via UNjobs · construction | – | check | 🟢 High |
+| [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) | via UNjobs · construction | – | check | 🟢 High |
+| [Senior Safeguards Coordinator, Infrastructure, Port Moresby](https://unjobs.org/vacancies/1792126888621) | via UNjobs · construction | – | check | 🟢 High |
+| [Infrastructure Short Term Adviser (STA)](https://unjobs.org/vacancies/1792126888482) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) | via UNjobs · construction | – | check | 🟢 High |
 | [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) | via UNjobs · construction | – | check | 🟢 High |
@@ -56,27 +55,27 @@
 | [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) | via UNjobs · construction | – | check | 🟢 High |
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
-| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 🔴 0 days | 🟡 Medium |
-| [Biomedical Engineer, Bridgetown, Barbados](https://unjobs.org/vacancies/1791806042139) | via UNjobs · construction | 2026-10-21 | 🔴 1 days | 🟡 Medium |
-| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 1 days | 🟡 Medium |
-| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 1 days | 🟡 Medium |
-| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 1 days | 🟡 Medium |
-| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | 🔴 2 days | 🟡 Medium |
-| [Field Office Engineer](https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125) | via unvacancies · engineering | 2026-10-28 | 8 days | 🟡 Medium |
-| [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | 8 days | 🟡 Medium |
-| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | 8 days | 🟡 Medium |
-| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 10 days | 🟡 Medium |
-| [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 27 days | 🟡 Medium |
+| [Biomedical Engineer, Bridgetown, Barbados](https://unjobs.org/vacancies/1791806042139) | via UNjobs · construction | 2026-10-21 | 🔴 0 days | 🟡 Medium |
+| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 0 days | 🟡 Medium |
+| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 0 days | 🟡 Medium |
+| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | 🔴 0 days | 🟡 Medium |
+| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | 🔴 1 days | 🟡 Medium |
+| [Field Office Engineer](https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125) | via unvacancies · engineering | 2026-10-28 | 🔴 7 days | 🟡 Medium |
+| [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | 🔴 7 days | 🟡 Medium |
+| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | 🔴 7 days | 🟡 Medium |
+| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 9 days | 🟡 Medium |
+| [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 12 days | 🟡 Medium |
+| [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 26 days | 🟡 Medium |
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396927995) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1792396927786) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [National Project Officer – Construction Engineer, Beirut](https://unjobs.org/vacancies/1792396826266) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)](https://unjobs.org/vacancies/1792083758670) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
-| [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Technical Engineer Consultant, Chisinau, Moldova, 8 months (Remote)](https://unjobs.org/vacancies/1792083758670) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Construction & Site Manager, Menongue, Angola](https://unjobs.org/vacancies/1792155785200) | via UNjobs · construction | – | check | 🟡 Medium |
+| [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867668525) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867670024) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) | via UNjobs · construction | – | check | 🟡 Medium |
@@ -111,13 +110,15 @@
 | [Senior Manufacturing Engineer, San Jose, California, United States](https://unjobs.org/vacancies/1791190534451) | via UNjobs · construction | – | check | ⚪ Low |
 | [Consultant - Field Engineer (STRONG), Banjul](https://unjobs.org/vacancies/1791108068911) | via UNjobs · construction | – | check | ⚪ Low |
 
-<details><summary>Closed (4)</summary>
+<details><summary>Closed (6)</summary>
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -1 days | 🟢 High |
-| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) | via unvacancies · UN-Habitat | 2026-10-16 | -4 days | 🟡 Medium |
-| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | -7 days | 🟢 High |
-| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -11 days | 🟢 High |
+| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -2 days | 🟢 High |
+| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) | via unvacancies · UN-Habitat | 2026-10-16 | -5 days | 🟡 Medium |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | -1 days | 🟡 Medium |
+| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | -8 days | 🟢 High |
+| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | -1 days | 🟢 High |
+| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -12 days | 🟢 High |
 
 </details>
