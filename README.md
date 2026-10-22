@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**98 open jobs** · updated 2026-10-22 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**103 open jobs** · updated 2026-10-22 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -16,6 +16,10 @@
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 4 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 10 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 10 days | 🟢 High |
+| [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) 🆕 | via UNjobs · construction | 2026-11-05 | 14 days | 🟢 High |
+| [Officier WASH, Muyinga, Burundi](https://unjobs.org/vacancies/1792645386124) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH and Construction Officer, Kinshasa](https://unjobs.org/vacancies/1792558930105) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Technical Advisor I-Shelter & Settlements RAPID, United States](https://unjobs.org/vacancies/1792558903984) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -63,6 +67,7 @@
 | [Telecommunications/ Network Engineer - Internally for UNRWA staff only](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) 🆕 | via unvacancies · engineering | 2026-11-02 | 11 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 25 days | 🟡 Medium |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman](https://unjobs.org/vacancies/1792584094476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396927995) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |

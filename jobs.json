@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-20T2"
+    "muted": "2026-10-22T2"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-20",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792641704596",
+   "deadline": "2026-11-05",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Officier WASH, Muyinga, Burundi",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792645386124",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792584094476",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "WASH and Construction Officer, Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558930105",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
+  {
+   "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792558903984",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
   {
    "title": "Telecommunications/ Network Engineer - Internally for UNRWA staff only",
    "info": "via unvacancies · engineering",
