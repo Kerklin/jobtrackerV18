@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T3"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Project Manager, Global Housing Hub",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "found": "2026-10-22",
+   "status": "open"
+  },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
    "info": "via UNjobs · construction",
