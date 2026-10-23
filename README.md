@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**107 open jobs** · updated 2026-10-23 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**108 open jobs** · updated 2026-10-23 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -16,6 +16,7 @@
 | [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | 🔴 3 days | 🟢 High |
 | [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 9 days | 🟢 High |
 | [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 9 days | 🟢 High |
+| [Cities and Climate Change Consultant – Multilevel Climate Action and Housing](https://unvacancies.org/jobs/cities-and-climate-change-consultant-multilevel-climate-action-and-housing-t-287020) 🆕 | via unvacancies · UN-Habitat | 2026-11-03 | 11 days | 🟢 High |
 | [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
 | [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) 🆕 | via unvacancies · UNOPS | 2026-11-05 | 13 days | 🟢 High |
