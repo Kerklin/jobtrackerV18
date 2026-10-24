@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**113 open jobs** · updated 2026-10-24 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**119 open jobs** · updated 2026-10-24 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -25,6 +25,12 @@
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) 🆕 | via UNjobs · construction | 2026-11-05 | 12 days | 🟢 High |
 | [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) 🆕 | via unvacancies · engineering | 2026-11-06 | 13 days | 🟢 High |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) 🆕 | via unvacancies · UN-Habitat | 2026-11-06 | 13 days | 🟢 High |
+| [Shelter & Wash Project Manager Chad Iriba (national only)](https://unjobs.org/vacancies/1792774853017) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Facilities Management Assistant, G4](https://unjobs.org/vacancies/1792771412062) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Housing Accessibility Policy and Design Specialist](https://unjobs.org/vacancies/1792771406690) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [ENGINEER, Electrical (Duration 364 days), P4](https://unjobs.org/vacancies/1792771412368) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Project Engineer](https://unjobs.org/vacancies/1792771338232) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Consultant Field Engineer READY (two positions)](https://unvacancies.org/jobs/consultant-field-engineer-ready-two-positions-OM-23546) 🆕 | via unvacancies · engineering | – | check | 🟢 High |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1792688457349) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Officier WASH, Muyinga, Burundi](https://unjobs.org/vacancies/1792645386124) 🆕 | via UNjobs · construction | – | check | 🟢 High |
