@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**122 open jobs** · updated 2026-10-25 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**126 open jobs** · updated 2026-10-25 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -86,6 +86,10 @@
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 8 days | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) 🆕 | via unvacancies · engineering | 2026-11-03 | 9 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 22 days | 🟡 Medium |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Measurement, Cost And Contracts Engineer, Amman](https://unjobs.org/vacancies/1792771354211) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Field Office Engineer, West Bank](https://unjobs.org/vacancies/1792771359065) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), Amman](https://unjobs.org/vacancies/1792584094476) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, Amman](https://unjobs.org/vacancies/1792476080480) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter & WASH Technical Officer, Shostka, Kyiv, Ukraine](https://unjobs.org/vacancies/1792429248532) | via UNjobs · construction | – | check | 🟡 Medium |
