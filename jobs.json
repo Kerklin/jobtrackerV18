@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-25T3"
+    "muted": "2026-10-26T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "WASH Officer, (NO-2), TA, #138975, (364 days), Gaza, State of Palestine, MENA",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793034056975",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793030445542",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
+  {
+   "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793030444841",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-26",
+   "status": "open"
+  },
   {
    "title": "Civil Engineer",
    "info": "via unvacancies · engineering",
