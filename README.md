@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**124 open jobs** · updated 2026-10-26 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**125 open jobs** · updated 2026-10-26 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -23,6 +23,7 @@
 | [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 10 days | 🟢 High |
 | [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) 🆕 | via unvacancies · engineering | 2026-11-06 | 11 days | 🟢 High |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 11 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) 🆕 | via unvacancies · engineering | 2026-11-09 | 14 days | 🟢 High |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Associate Sector Specialist - Environment and Infrastructure - based in Luxembourg](https://unjobs.org/vacancies/1792808743799) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Director, Housing and Resilience Programs, Washington, United States](https://unjobs.org/vacancies/1792809233248) 🆕 | via UNjobs · construction | – | check | 🟢 High |
