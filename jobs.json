@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-26T3"
+    "muted": "2026-10-27T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-27",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Infrastructure Project Management Specialist (Long Term Personnel), Honiara",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077276371",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793077258711",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Construction and Engineer, Program Design Specialist, Washington",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049615470",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Resident Engineer, Dhusamareb, Somalia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793049721853",
+   "deadline": "2026-10-28",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
+  {
+   "title": "Consultant State Engineer, Enugu, Nigeria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793034049788",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-10-27",
+   "status": "open"
+  },
   {
    "title": "WASH Officer, (NO-2), TA, #138975, (364 days), Gaza, State of Palestine, MENA",
    "info": "via UNjobs · construction",
