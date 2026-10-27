@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**133 open jobs** · updated 2026-10-27 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**137 open jobs** · updated 2026-10-27 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -25,6 +25,9 @@
 | [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) 🆕 | via unvacancies · engineering | 2026-11-08 | 12 days | 🟢 High |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) 🆕 | via unvacancies · engineering | 2026-11-08 | 12 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) 🆕 | via unvacancies · engineering | 2026-11-09 | 13 days | 🟢 High |
+| [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH and Shelter Manager Ethiopia Dollo Ado](https://unjobs.org/vacancies/1793120569462) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [PALESTINE - WASH PROGRAM MANAGER (M/F) - GAZA, Palestine](https://unjobs.org/vacancies/1793048987493) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Infrastructure Project Management Specialist (Long Term Personnel), Honiara](https://unjobs.org/vacancies/1793077276371) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Engineering and Shelter Team Leader, Bidibidi, Uganda](https://unjobs.org/vacancies/1793077258711) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Construction and Engineer, Program Design Specialist, Washington](https://unjobs.org/vacancies/1793049615470) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -92,6 +95,7 @@
 | [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 6 days | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) | via unvacancies · engineering | 2026-11-03 | 🔴 7 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 20 days | 🟡 Medium |
+| [Civil Engineer](https://unjobs.org/vacancies/1793037691345) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Officer, (NO-2), TA, #138975, (364 days), Gaza, State of Palestine, MENA](https://unjobs.org/vacancies/1793034056975) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
