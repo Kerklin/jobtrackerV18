@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-26T2"
+    "muted": "2026-10-28T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-26",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-OPS-4824",
+   "deadline": "2026-11-09",
+   "fit": "High",
+   "found": "2026-10-28",
+   "status": "open"
+  },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
    "info": "via unvacancies · engineering",
