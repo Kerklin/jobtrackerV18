@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-28T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-28",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Housing Economist",
+   "info": "via unvacancies · UN-Habitat",
+   "link": "https://unvacancies.org/jobs/housing-economist-t-286992",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "found": "2026-10-28",
+   "status": "open"
+  },
   {
    "title": "Wash and Shelter Project Manager Ethiopia North Amhara",
    "info": "via UNjobs · construction",
