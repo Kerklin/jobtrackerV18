@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-28T2"
+    "muted": "2026-10-30T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-30T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Network Automation/DDI Engineer (Associate Infrastructure Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39129",
+   "deadline": "2026-11-13",
+   "fit": "High",
+   "found": "2026-10-30",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-5003",
+   "deadline": "2026-11-06",
+   "fit": "High",
+   "found": "2026-10-30",
+   "status": "open"
+  },
+  {
+   "title": "Design Review Engineer – Bridges, Major Drainage, and Structural Works",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-10-30",
+   "status": "open"
+  },
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "Medium",
+   "found": "2026-10-30",
+   "status": "open"
+  },
   {
    "title": "Housing Economist, Montreal",
    "info": "via UNjobs · construction",
