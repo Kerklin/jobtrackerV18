@@ -2,33 +2,33 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**141 open jobs** · updated 2026-10-30 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**140 open jobs** · updated 2026-10-31 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 🔴 2 days | 🟢 High |
-| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 🔴 2 days | 🟢 High |
-| [Platform Engineer](https://unvacancies.org/jobs/platform-engineer-WB-38774) | via unvacancies · engineering | 2026-11-03 | 🔴 4 days | 🟢 High |
-| [Cities and Climate Change Consultant – Multilevel Climate Action and Housing](https://unvacancies.org/jobs/cities-and-climate-change-consultant-multilevel-climate-action-and-housing-t-287020) | via unvacancies · UN-Habitat | 2026-11-03 | 🔴 4 days | 🟢 High |
-| [IC-Technical Engineer (Thai National Only)](https://unvacancies.org/jobs/ic-technical-engineer-thai-national-only-IC-50921) | via unvacancies · engineering | 2026-11-04 | 🔴 5 days | 🟢 High |
-| [Senior AI Engineer, ICT](https://unvacancies.org/jobs/senior-ai-engineer-ict-AO-37690) | via unvacancies · engineering | 2026-11-05 | 🔴 6 days | 🟢 High |
-| [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) | via unvacancies · UNOPS | 2026-11-05 | 🔴 6 days | 🟢 High |
-| [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) | via unvacancies · UNOPS | 2026-11-05 | 🔴 6 days | 🟢 High |
-| [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) | via unvacancies · UNOPS | 2026-11-05 | 🔴 6 days | 🟢 High |
-| [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 🔴 6 days | 🟢 High |
-| [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-5003) 🆕 | via unvacancies · engineering | 2026-11-06 | 🔴 7 days | 🟢 High |
-| [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) | via unvacancies · engineering | 2026-11-06 | 🔴 7 days | 🟢 High |
-| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 7 days | 🟢 High |
-| [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 9 days | 🟢 High |
-| [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 9 days | 🟢 High |
-| [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4824) 🆕 | via unvacancies · UNOPS | 2026-11-09 | 10 days | 🟢 High |
-| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) | via unvacancies · engineering | 2026-11-09 | 10 days | 🟢 High |
-| [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) 🆕 | via unvacancies · UN-Habitat | 2026-11-10 | 11 days | 🟢 High |
-| [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) 🆕 | via unvacancies · engineering | 2026-11-11 | 12 days | 🟢 High |
-| [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) 🆕 | via unvacancies · engineering | 2026-11-12 | 13 days | 🟢 High |
-| [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39129) 🆕 | via unvacancies · engineering | 2026-11-13 | 14 days | 🟢 High |
+| [Field Engineer Consultant – IOM READY FSM, RMI, ROP](https://unvacancies.org/jobs/consultant-field-engineer-ready-OM-23679) | via unvacancies · engineering | 2026-11-01 | 🔴 1 days | 🟢 High |
+| [ICT Project Manager](https://unvacancies.org/jobs/ict-project-manager-OPS-4761) | via unvacancies · UNOPS | 2026-11-01 | 🔴 1 days | 🟢 High |
+| [Platform Engineer](https://unvacancies.org/jobs/platform-engineer-WB-38774) | via unvacancies · engineering | 2026-11-03 | 🔴 3 days | 🟢 High |
+| [Cities and Climate Change Consultant – Multilevel Climate Action and Housing](https://unvacancies.org/jobs/cities-and-climate-change-consultant-multilevel-climate-action-and-housing-t-287020) | via unvacancies · UN-Habitat | 2026-11-03 | 🔴 3 days | 🟢 High |
+| [IC-Technical Engineer (Thai National Only)](https://unvacancies.org/jobs/ic-technical-engineer-thai-national-only-IC-50921) | via unvacancies · engineering | 2026-11-04 | 🔴 4 days | 🟢 High |
+| [Senior AI Engineer, ICT](https://unvacancies.org/jobs/senior-ai-engineer-ict-AO-37690) | via unvacancies · engineering | 2026-11-05 | 🔴 5 days | 🟢 High |
+| [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-4927) | via unvacancies · UNOPS | 2026-11-05 | 🔴 5 days | 🟢 High |
+| [Project Manager (Transactional)](https://unvacancies.org/jobs/project-manager-transactional-OPS-4857) | via unvacancies · UNOPS | 2026-11-05 | 🔴 5 days | 🟢 High |
+| [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-4858) | via unvacancies · UNOPS | 2026-11-05 | 🔴 5 days | 🟢 High |
+| [Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal](https://unjobs.org/vacancies/1792641704596) | via UNjobs · construction | 2026-11-05 | 🔴 5 days | 🟢 High |
+| [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-5003) 🆕 | via unvacancies · engineering | 2026-11-06 | 🔴 6 days | 🟢 High |
+| [Consultant/e international/e, révision de la Stratégie nationale de gestion des infrastructures d'eau potable en milieu rural en Côte d'Ivoire, WASH, Abidjan 8 mois teletravail+deplacements 596540](https://unvacancies.org/jobs/consultant-e-international-e-revision-de-la-strategie-nationale-de-gestion-des-infrastructures-d-eau-F-596540) | via unvacancies · engineering | 2026-11-06 | 🔴 6 days | 🟢 High |
+| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 6 days | 🟢 High |
+| [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High |
+| [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 8 days | 🟢 High |
+| [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4824) | via unvacancies · UNOPS | 2026-11-09 | 9 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) | via unvacancies · engineering | 2026-11-09 | 9 days | 🟢 High |
+| [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) | via unvacancies · UN-Habitat | 2026-11-10 | 10 days | 🟢 High |
+| [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 11 days | 🟢 High |
+| [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟢 High |
+| [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39129) 🆕 | via unvacancies · engineering | 2026-11-13 | 13 days | 🟢 High |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Wash and Shelter Project Manager Ethiopia North Amhara](https://unjobs.org/vacancies/1793120569990) | via UNjobs · construction | – | check | 🟢 High |
@@ -93,12 +93,11 @@
 | [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) | via UNjobs · construction | – | check | 🟢 High |
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
-| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | 🔴 0 days | 🟡 Medium |
-| [Telecommunications/ Network Engineer - Internally for UNRWA staff only](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) | via unvacancies · engineering | 2026-11-02 | 🔴 3 days | 🟡 Medium |
-| [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 3 days | 🟡 Medium |
-| [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) | via unvacancies · engineering | 2026-11-03 | 🔴 4 days | 🟡 Medium |
-| [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 13 days | 🟡 Medium |
-| [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 17 days | 🟡 Medium |
+| [Telecommunications/ Network Engineer - Internally for UNRWA staff only](https://unvacancies.org/jobs/telecommunications-network-engineer-internally-for-unrwa-staff-only-A-286364) | via unvacancies · engineering | 2026-11-02 | 🔴 2 days | 🟡 Medium |
+| [Assistant Architect Design](https://unvacancies.org/jobs/assistant-architect-design-A-286594) | via unvacancies · engineering | 2026-11-02 | 🔴 2 days | 🟡 Medium |
+| [Assistant Architect Design (Architectural Modeling & 3D Visualization)](https://unvacancies.org/jobs/assistant-architect-design-architectural-modeling-3d-visualization-A-286585) | via unvacancies · engineering | 2026-11-03 | 🔴 3 days | 🟡 Medium |
+| [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟡 Medium |
+| [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 16 days | 🟡 Medium |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | – | check | 🟡 Medium |
 | [WASH Officer, (NO-2), TA, #138975, (364 days), Gaza, State of Palestine, MENA](https://unjobs.org/vacancies/1793034056975) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Assistant Architect Design (Architectural Modeling & 3D Visualization), E](https://unjobs.org/vacancies/1792771308767) | via UNjobs · construction | – | check | 🟡 Medium |
@@ -150,31 +149,32 @@
 | [Senior Manufacturing Engineer, San Jose, California, United States](https://unjobs.org/vacancies/1791190534451) | via UNjobs · construction | – | check | ⚪ Low |
 | [Consultant - Field Engineer (STRONG), Banjul](https://unjobs.org/vacancies/1791108068911) | via UNjobs · construction | – | check | ⚪ Low |
 
-<details><summary>Closed (22)</summary>
+<details><summary>Closed (23)</summary>
 
 | Job | Found via | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Resident Engineer, Dhusamareb, Somalia](https://unjobs.org/vacancies/1793049721853) | via UNjobs · construction | 2026-10-28 | -2 days | 🟢 High |
-| [IG Lead Quality Assurance Engineer](https://unvacancies.org/jobs/senior-quality-assurance-engineer-36834058) | via unvacancies · engineering | 2026-10-29 | -1 days | 🟢 High |
-| [Structural Engineer](https://unvacancies.org/jobs/structural-engineer-N-286748) | via unvacancies · engineering | 2026-10-25 | -5 days | 🟢 High |
-| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) | via unvacancies · engineering | 2026-10-25 | -5 days | 🟢 High |
-| [Field Office Engineer](https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125) | via unvacancies · engineering | 2026-10-28 | -2 days | 🟡 Medium |
-| [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | -2 days | 🟡 Medium |
-| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | -2 days | 🟡 Medium |
-| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | -4 days | 🟢 High |
-| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | -8 days | 🟡 Medium |
-| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -11 days | 🟢 High |
-| [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | -7 days | 🟢 High |
-| [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | -7 days | 🟢 High |
-| [Biomedical Engineer, Bridgetown, Barbados](https://unjobs.org/vacancies/1791806042139) | via UNjobs · construction | 2026-10-21 | -9 days | 🟡 Medium |
-| [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | -4 days | 🟢 High |
-| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) | via unvacancies · UN-Habitat | 2026-10-16 | -14 days | 🟡 Medium |
-| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | -10 days | 🟡 Medium |
-| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | -17 days | 🟢 High |
-| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | -10 days | 🟢 High |
-| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -21 days | 🟢 High |
-| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | -9 days | 🟡 Medium |
-| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | -9 days | 🟡 Medium |
-| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | -9 days | 🟡 Medium |
+| [Resident Engineer, Dhusamareb, Somalia](https://unjobs.org/vacancies/1793049721853) | via UNjobs · construction | 2026-10-28 | -3 days | 🟢 High |
+| [IG Lead Quality Assurance Engineer](https://unvacancies.org/jobs/senior-quality-assurance-engineer-36834058) | via unvacancies · engineering | 2026-10-29 | -2 days | 🟢 High |
+| [Structural Engineer](https://unvacancies.org/jobs/structural-engineer-N-286748) | via unvacancies · engineering | 2026-10-25 | -6 days | 🟢 High |
+| [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-286749) | via unvacancies · engineering | 2026-10-25 | -6 days | 🟢 High |
+| [Field Office Engineer](https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125) | via unvacancies · engineering | 2026-10-28 | -3 days | 🟡 Medium |
+| [Measurement, Cost and Contracts Engineer](https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610) | via unvacancies · engineering | 2026-10-28 | -3 days | 🟡 Medium |
+| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | -3 days | 🟡 Medium |
+| [Biomedical Lead Engineer](https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796) | via unvacancies · UNOPS | 2026-10-26 | -5 days | 🟢 High |
+| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | -9 days | 🟡 Medium |
+| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -12 days | 🟢 High |
+| [Construction Management Engineer, Kalemie, Democratic Republic of Congo](https://unjobs.org/vacancies/1791805949717) | via UNjobs · construction | 2026-10-23 | -8 days | 🟢 High |
+| [Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1791806017218) | via UNjobs · construction | 2026-10-23 | -8 days | 🟢 High |
+| [Biomedical Engineer, Bridgetown, Barbados](https://unjobs.org/vacancies/1791806042139) | via UNjobs · construction | 2026-10-21 | -10 days | 🟡 Medium |
+| [Field Engineer COFAREADY](https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535) | via unvacancies · engineering | 2026-10-26 | -5 days | 🟢 High |
+| [Sanitation Engineer (Drainage Project)](https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289) | via unvacancies · UN-Habitat | 2026-10-16 | -15 days | 🟡 Medium |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | -11 days | 🟡 Medium |
+| [ENGINEER](https://unvacancies.org/jobs/engineer-N-286023) | via unvacancies · engineering | 2026-10-13 | -18 days | 🟢 High |
+| [Engineer](https://unvacancies.org/jobs/engineer--4018010) | via unvacancies · engineering | 2026-10-20 | -11 days | 🟢 High |
+| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -22 days | 🟢 High |
+| [Senior Programme Manager](https://unvacancies.org/jobs/senior-programme-manager-OPS-4692) | via unvacancies · UNOPS | 2026-10-30 | -1 days | 🟡 Medium |
+| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/housing-policy-analysis-and-reporting-specialist-t-285341) | via unvacancies · UN-Habitat | 2026-10-21 | -10 days | 🟡 Medium |
+| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/housing-accessibility-policy-and-design-specialist-t-285486) | via unvacancies · UN-Habitat | 2026-10-21 | -10 days | 🟡 Medium |
+| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/housing-accessibility-standards-specialist-t-285490) | via unvacancies · UN-Habitat | 2026-10-21 | -10 days | 🟡 Medium |
 
 </details>
