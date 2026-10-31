@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-30T3"
+    "muted": "2026-10-31T1"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-10-30T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-4953",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-10-31",
+   "status": "open"
+  },
   {
    "title": "Network Automation/DDI Engineer (Associate Infrastructure Engineer)",
    "info": "via unvacancies · engineering",

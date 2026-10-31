@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**140 open jobs** · updated 2026-10-31 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**141 open jobs** · updated 2026-10-31 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -27,6 +27,7 @@
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4944) | via unvacancies · engineering | 2026-11-09 | 9 days | 🟢 High |
 | [Housing Economist](https://unvacancies.org/jobs/housing-economist-t-286992) | via unvacancies · UN-Habitat | 2026-11-10 | 10 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 11 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4953) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟢 High |
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) 🆕 | via unvacancies · engineering | 2026-11-12 | 12 days | 🟢 High |
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39129) 🆕 | via unvacancies · engineering | 2026-11-13 | 13 days | 🟢 High |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) 🆕 | via UNjobs · construction | – | check | 🟢 High |
