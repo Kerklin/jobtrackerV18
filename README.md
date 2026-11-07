@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**146 open jobs** · updated 2026-11-07 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**149 open jobs** · updated 2026-11-07 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -16,6 +16,7 @@
 | [Project Engineer](https://unvacancies.org/jobs/project-engineer-N-287748) 🆕 | via unvacancies · engineering | 2026-11-11 | 🔴 4 days | 🟢 High |
 | [Senior Project Manager](https://unvacancies.org/jobs/senior-project-manager-OPS-4992) | via unvacancies · UNOPS | 2026-11-11 | 🔴 4 days | 🟢 High |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 🔴 4 days | 🟢 High |
+| [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 🔴 5 days | 🟢 High |
 | [Civil Engineer](https://unjobs.org/vacancies/1793419279266) | via UNjobs · construction | 2026-11-12 | 🔴 5 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-4953) | via unvacancies · engineering | 2026-11-12 | 🔴 5 days | 🟢 High |
 | [Design Review Engineer – Bridges, Major Drainage, and Structural Works](https://unvacancies.org/jobs/design-review-engineer-bridges-major-drainage-and-structural-works-OPS-5014) | via unvacancies · engineering | 2026-11-12 | 🔴 5 days | 🟢 High |
@@ -26,6 +27,7 @@
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 10 days | 🟢 High |
 | [Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)](https://unvacancies.org/jobs/information-and-communications-technology-ict-officer-cloud-secops-engineer-p-OM-23907) 🆕 | via unvacancies · engineering | 2026-11-18 | 11 days | 🟢 High |
 | [Engineer – SC8 – Skardu, Gilgit Baltistan](https://unvacancies.org/jobs/engineer-sc8-skardu-gilgit-baltistan-22068878) 🆕 | via unvacancies · engineering | 2026-11-18 | 11 days | 🟢 High |
+| [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 12 days | 🟢 High |
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) 🆕 | via unvacancies · engineering | 2026-11-19 | 12 days | 🟢 High |
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) | via UNjobs · construction | – | check | 🟢 High |
@@ -101,6 +103,7 @@
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 5 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 9 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5059) 🆕 | via unvacancies · engineering | 2026-11-17 | 10 days | 🟡 Medium |
+| [ICT Senior Analyst – ICT Project Management (Data Architect)](https://unvacancies.org/jobs/ict-senior-analyst-ict-project-management-data-architect-OPS-4950) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 12 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) 🆕 | via unvacancies · engineering | 2026-11-25 | 18 days | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Civil Engineer](https://unjobs.org/vacancies/1793037691345) | via UNjobs · construction | – | check | 🟡 Medium |

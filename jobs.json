@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-02T1"
+    "muted": "2026-11-07T2"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-02",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "ICT Senior Analyst – ICT Project Management (Data Architect)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/ict-senior-analyst-ict-project-management-data-architect-OPS-4950",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "found": "2026-11-07",
+   "status": "open"
+  },
+  {
+   "title": "Salesforce Marketing Cloud Architect",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-11-07",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099",
+   "deadline": "2026-11-19",
+   "fit": "High",
+   "found": "2026-11-07",
+   "status": "open"
+  },
   {
    "title": "Civil Engineer",
    "info": "via unvacancies · engineering",
