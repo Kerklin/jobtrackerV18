@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**157 open jobs** · updated 2026-11-08 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**158 open jobs** · updated 2026-11-08 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -33,6 +33,7 @@
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 11 days | 🟢 High |
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) 🆕 | via unvacancies · engineering | 2026-11-19 | 11 days | 🟢 High |
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) 🆕 | via unvacancies · engineering | 2026-11-20 | 12 days | 🟢 High |
+| [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794157239920) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [Associate Field Engineer, Mumbai, India](https://unjobs.org/vacancies/1794060380848) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Project Officer Sr WASH Engineer, Port-au-Prince](https://unjobs.org/vacancies/1794027670559) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) | via UNjobs · construction | – | check | 🟢 High |

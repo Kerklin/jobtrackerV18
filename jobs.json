@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-07T3"
+    "muted": "2026-11-08T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-07",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -52,6 +52,15 @@
   }
  },
  "jobs": [
+  {
+   "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
+   "info": "via UNjobs · Bosnia and Herzegovina",
+   "link": "https://unjobs.org/vacancies/1794157239920",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
   {
    "title": "Associate Field Engineer, Mumbai, India",
    "info": "via UNjobs · construction",
