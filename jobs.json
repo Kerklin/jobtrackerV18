@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-06T0"
+    "muted": "2026-11-08T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-05T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Infrastructure Engineering Analyst (Firewall Engineering)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288",
+   "deadline": "2026-11-20",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel), Nationals Only",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-F-596783",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-5058",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "found": "2026-11-08",
+   "status": "open"
+  },
   {
    "title": "ICT Senior Analyst – ICT Project Management (Data Architect)",
    "info": "via unvacancies · UNOPS",
