@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-04T2"
+    "muted": "2026-11-08T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-08",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Associate Field Engineer, Mumbai, India",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794060380848",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "WASH Coordinator-Roster",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794027688250",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer-Roster",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794027686467",
+   "deadline": "2026-11-12",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "Project Officer Sr WASH Engineer, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794027670559",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-08",
+   "status": "open"
+  },
+  {
+   "title": "Shelter and Settlement Partnership Officer, Sumy, Ukraine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794027669443",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-08",
+   "status": "open"
+  },
   {
    "title": "Infrastructure Engineering Analyst (Firewall Engineering)",
    "info": "via unvacancies · engineering",
