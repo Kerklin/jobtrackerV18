@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**155 open jobs** · updated 2026-11-09 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**161 open jobs** · updated 2026-11-09 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -24,6 +24,8 @@
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39129) | via unvacancies · engineering | 2026-11-13 | 🔴 4 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 🔴 5 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 5 days | 🟢 High |
+| [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟢 High |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟢 High |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟢 High |
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟢 High |
 | [Information and Communications Technology (ICT) Officer (Cloud SecOps Engineer) (P)](https://unvacancies.org/jobs/information-and-communications-technology-ict-officer-cloud-secops-engineer-p-OM-23907) | via unvacancies · engineering | 2026-11-18 | 9 days | 🟢 High |
@@ -31,6 +33,7 @@
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) 🆕 | via unvacancies · UNOPS | 2026-11-19 | 10 days | 🟢 High |
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) | via unvacancies · engineering | 2026-11-19 | 10 days | 🟢 High |
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) 🆕 | via unvacancies · engineering | 2026-11-20 | 11 days | 🟢 High |
+| [Engineer](https://unvacancies.org/jobs/engineer-N-288009) 🆕 | via unvacancies · engineering | 2026-11-23 | 14 days | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794157239920) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [Associate Field Engineer, Mumbai, India](https://unjobs.org/vacancies/1794060380848) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Project Officer Sr WASH Engineer, Port-au-Prince](https://unjobs.org/vacancies/1794027670559) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -105,6 +108,9 @@
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 3 days | 🟡 Medium |
+| [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-4894) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟡 Medium |
+| [Quality Control Engineer](https://unvacancies.org/jobs/quality-control-engineer-OPS-5102) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟡 Medium |
+| [Biomedical Engineer](https://unvacancies.org/jobs/biomedical-engineer-OPS-4893) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟡 Medium |
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 🔴 7 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5058) 🆕 | via unvacancies · engineering | 2026-11-17 | 8 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5059) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟡 Medium |

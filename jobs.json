@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-09T0"
+    "muted": "2026-11-09T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/engineer-N-288009",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "found": "2026-11-09",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mechanical-engineer-OPS-4894",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-09",
+   "status": "open"
+  },
+  {
+   "title": "Quality Control Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/quality-control-engineer-OPS-5102",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-09",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Senior Associate Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-09",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-09",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/biomedical-engineer-OPS-4893",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-09",
+   "status": "open"
+  },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
    "info": "via UNjobs · Bosnia and Herzegovina",
