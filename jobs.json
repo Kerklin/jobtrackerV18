@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-08T1"
+    "muted": "2026-11-10T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-08",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "Design Engineer, Yangon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794283274464",
+   "deadline": "2026-11-24",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "ENGINEER, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794247249726",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "FACILITIES MANAGEMENT OFFICER, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794247245319",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Mechanical Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794232891034",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Biomedical Engineer, Tashkent, Uzbekistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794225678460",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-10",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer, Tashkent",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794225678882",
+   "deadline": "2026-11-16",
+   "fit": "Medium",
+   "found": "2026-11-10",
+   "status": "open"
+  },
   {
    "title": "Engineer",
    "info": "via unvacancies · engineering",

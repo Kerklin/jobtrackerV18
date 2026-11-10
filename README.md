@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**159 open jobs** · updated 2026-11-10 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**165 open jobs** · updated 2026-11-10 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -32,6 +32,9 @@
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) | via unvacancies · engineering | 2026-11-19 | 9 days | 🟢 High |
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) 🆕 | via unvacancies · engineering | 2026-11-20 | 10 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer-N-288009) 🆕 | via unvacancies · engineering | 2026-11-23 | 13 days | 🟢 High |
+| [Design Engineer, Yangon](https://unjobs.org/vacancies/1794283274464) 🆕 | via UNjobs · construction | 2026-11-24 | 14 days | 🟢 High |
+| [ENGINEER, Port-au-Prince](https://unjobs.org/vacancies/1794247249726) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [FACILITIES MANAGEMENT OFFICER, Port-au-Prince](https://unjobs.org/vacancies/1794247245319) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794157239920) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
 | [Associate Field Engineer, Mumbai, India](https://unjobs.org/vacancies/1794060380848) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Project Officer Sr WASH Engineer, Port-au-Prince](https://unjobs.org/vacancies/1794027670559) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -106,6 +109,9 @@
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 2 days | 🟡 Medium |
+| [Mechanical Engineer](https://unjobs.org/vacancies/1794232891034) 🆕 | via UNjobs · construction | 2026-11-16 | 🔴 6 days | 🟡 Medium |
+| [Biomedical Engineer, Tashkent, Uzbekistan](https://unjobs.org/vacancies/1794225678460) 🆕 | via UNjobs · construction | 2026-11-16 | 🔴 6 days | 🟡 Medium |
+| [Construction Management Lead Engineer, Tashkent](https://unjobs.org/vacancies/1794225678882) 🆕 | via UNjobs · construction | 2026-11-16 | 🔴 6 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-4894) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 6 days | 🟡 Medium |
 | [Quality Control Engineer](https://unvacancies.org/jobs/quality-control-engineer-OPS-5102) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 6 days | 🟡 Medium |
 | [Biomedical Engineer](https://unvacancies.org/jobs/biomedical-engineer-OPS-4893) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 6 days | 🟡 Medium |
