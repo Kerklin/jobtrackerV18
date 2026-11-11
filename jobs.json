@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-10T0"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,24 @@
   }
  },
  "jobs": [
+  {
+   "title": "Lead Architect",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/lead-architect-OPS-5145",
+   "deadline": "2026-11-15",
+   "fit": "High",
+   "found": "2026-11-11",
+   "status": "open"
+  },
+  {
+   "title": "Design Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/design-engineer-OPS-5053",
+   "deadline": "2026-11-24",
+   "fit": "High",
+   "found": "2026-11-11",
+   "status": "open"
+  },
   {
    "title": "Design Engineer, Yangon",
    "info": "via UNjobs · construction",
