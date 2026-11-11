@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**165 open jobs** · updated 2026-11-11 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**168 open jobs** · updated 2026-11-11 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -21,6 +21,7 @@
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | 2026-11-14 | 🔴 3 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 3 days | 🟢 High |
 | [Lead Architect](https://unvacancies.org/jobs/lead-architect-OPS-5145) 🆕 | via unvacancies · UNOPS | 2026-11-15 | 🔴 4 days | 🟢 High |
+| [Project Manager (EU CEF Programme)](https://unvacancies.org/jobs/project-manager-eu-cef-programme-OPS-5083) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 5 days | 🟢 High |
 | [Construction Management Senior Associate Engineer](https://unvacancies.org/jobs/construction-management-senior-associate-engineer-OPS-4886) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 5 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · engineering | 2026-11-16 | 🔴 5 days | 🟢 High |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 🔴 6 days | 🟢 High |
@@ -33,6 +34,7 @@
 | [Engineer](https://unvacancies.org/jobs/engineer-N-288009) 🆕 | via unvacancies · engineering | 2026-11-23 | 12 days | 🟢 High |
 | [Design Engineer](https://unvacancies.org/jobs/design-engineer-OPS-5053) 🆕 | via unvacancies · UNOPS | 2026-11-24 | 13 days | 🟢 High |
 | [Design Engineer, Yangon](https://unjobs.org/vacancies/1794283274464) 🆕 | via UNjobs · construction | 2026-11-24 | 13 days | 🟢 High |
+| [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 14 days | 🟢 High |
 | [ENGINEER, Port-au-Prince](https://unjobs.org/vacancies/1794247249726) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [FACILITIES MANAGEMENT OFFICER, Port-au-Prince](https://unjobs.org/vacancies/1794247245319) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High |
@@ -118,6 +120,7 @@
 | [Team Leader IT Infrastructure – ICTP](https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957) | via unvacancies · engineering | 2026-11-16 | 🔴 5 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5058) | via unvacancies · engineering | 2026-11-17 | 🔴 6 days | 🟡 Medium |
 | [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5059) | via unvacancies · engineering | 2026-11-17 | 🔴 6 days | 🟡 Medium |
+| [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unvacancies.org/jobs/civil-engineer-quantity-surveying-cost-estimation-OPS-5103) 🆕 | via unvacancies · UNOPS | 2026-11-18 | 🔴 7 days | 🟡 Medium |
 | [ICT Senior Analyst – ICT Project Management (Data Architect)](https://unvacancies.org/jobs/ict-senior-analyst-ict-project-management-data-architect-OPS-4950) | via unvacancies · UNOPS | 2026-11-19 | 8 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) | via unvacancies · engineering | 2026-11-25 | 14 days | 🟡 Medium |
 | [Shelter and Settlement Partnership Officer, Sumy, Ukraine](https://unjobs.org/vacancies/1794027669443) | via UNjobs · construction | – | check | 🟡 Medium |

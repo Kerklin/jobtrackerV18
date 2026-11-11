@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-11T0"
+    "muted": "2026-11-11T3"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/civil-engineer-quantity-surveying-cost-estimation-OPS-5103",
+   "deadline": "2026-11-18",
+   "fit": "Medium",
+   "found": "2026-11-11",
+   "status": "open"
+  },
+  {
+   "title": "Senior Director, Infrastructure",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-11",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (EU CEF Programme)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-eu-cef-programme-OPS-5083",
+   "deadline": "2026-11-16",
+   "fit": "High",
+   "found": "2026-11-11",
+   "status": "open"
+  },
   {
    "title": "Lead Architect",
    "info": "via unvacancies · UNOPS",
