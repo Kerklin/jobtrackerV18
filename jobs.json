@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-09T3"
+    "muted": "2026-11-16T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-15T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "ET Consultant – Coastal Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "(Associate) Investment Officer, Infrastructure",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436",
+   "deadline": "2026-11-26",
+   "fit": "Medium",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "Senior Investment Officer, Infrastructure, the Caribbean Region",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-investment-officer-infrastructure-the-caribbean-region-WB-39419",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "Operating Engineer, Plant Operations",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324",
+   "deadline": "2026-11-25",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000",
+   "deadline": "2026-11-20",
+   "fit": "Medium",
+   "found": "2026-11-16",
+   "status": "open"
+  },
   {
    "title": "Lead Biomedical Engineer",
    "info": "via unvacancies · UNOPS",
@@ -1670,15 +1715,6 @@
    "deadline": "2026-10-26",
    "fit": "High",
    "found": "2026-10-11",
-   "status": "open"
-  },
-  {
-   "title": "Sanitation Engineer (Drainage Project)",
-   "info": "via unvacancies · UN-Habitat",
-   "link": "https://unvacancies.org/jobs/sanitation-engineer-drainage-project-t-286289",
-   "deadline": "2026-10-16",
-   "fit": "Medium",
-   "found": "2026-10-10",
    "status": "open"
   },
   {
