@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-14T1"
+    "muted": "2026-11-16T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-14",
+    "last_ok": "2026-11-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "Construction & Site Manager, Cúcuta, Colombia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794331307792",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Engineer, Mindanao, Philippines",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794412365985",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WaSH and Shelter Technician",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794459680118",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer Bangladesh Cox's Bazar Ukhiya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794373278690",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "YEMEN - WASH ADVISOR (F/M) - ADEN, Yemen",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794413039817",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
+  {
+   "title": "Sr. Environmental, Health & Safety (EHS) Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794822117565",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-16",
+   "status": "open"
+  },
   {
    "title": "ET Consultant – Coastal Infrastructure Engineer",
    "info": "via unvacancies · engineering",
