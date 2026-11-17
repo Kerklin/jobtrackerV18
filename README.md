@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**158 open jobs** · updated 2026-11-17 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**159 open jobs** · updated 2026-11-17 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -25,6 +25,7 @@
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) 🆕 | via unvacancies · engineering | 2026-11-25 | 8 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 8 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) 🆕 | via unvacancies · engineering | 2026-11-26 | 9 days | 🟢 High |
+| [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 14 days | 🟢 High |
 | [Construction & Site Manager, Cúcuta, Colombia](https://unjobs.org/vacancies/1794331307792) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Officer Bangladesh Cox's Bazar Ukhiya](https://unjobs.org/vacancies/1794373278690) 🆕 | via UNjobs · construction | – | check | 🟢 High |
