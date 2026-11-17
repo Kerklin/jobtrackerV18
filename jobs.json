@@ -19,7 +19,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-16T3"
+    "muted": "2026-11-17T3"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-17",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794934859224",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "WASH and Sanitation Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794931294612",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer), Dushanbe",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794916848324",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer), Bishkek",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794916847840",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Senior/Staff Project Manager, San Jose",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794891684209",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839191439",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Construction Administration Officer (Lao national), Luang Namtha, Lao PDR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794839756889",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "Information Management Officer (WASH)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859326088",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
+  {
+   "title": "WASH/IPC Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794859325838",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-17",
+   "status": "open"
+  },
   {
    "title": "Advisor, Financial Systems & Digital Infrastructure",
    "info": "via unvacancies · UNOPS",

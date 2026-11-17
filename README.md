@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**159 open jobs** · updated 2026-11-17 · six agents check every 5 minutes · sources working today: 1 of 12 · AI today: 0 of 130 requests
+**168 open jobs** · updated 2026-11-17 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -25,7 +25,9 @@
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) 🆕 | via unvacancies · engineering | 2026-11-25 | 8 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 8 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) 🆕 | via unvacancies · engineering | 2026-11-26 | 9 days | 🟢 High |
+| [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) 🆕 | via UNjobs · construction | 2026-11-30 | 13 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 14 days | 🟢 High |
+| [WASH and Sanitation Specialist](https://unjobs.org/vacancies/1794931294612) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Construction & Site Manager, Cúcuta, Colombia](https://unjobs.org/vacancies/1794331307792) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [WASH Officer Bangladesh Cox's Bazar Ukhiya](https://unjobs.org/vacancies/1794373278690) 🆕 | via UNjobs · construction | – | check | 🟢 High |
@@ -113,6 +115,13 @@
 | [Senior Facilities Management, Infrastructure & Sustainability Consultant](https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000) 🆕 | via unvacancies · engineering | 2026-11-20 | 🔴 3 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) | via unvacancies · engineering | 2026-11-25 | 8 days | 🟡 Medium |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) 🆕 | via unvacancies · engineering | 2026-11-26 | 9 days | 🟡 Medium |
+| [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794934859224) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Local Individual Contractor (Civil Work Engineer), Dushanbe](https://unjobs.org/vacancies/1794916848324) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Local Individual Contractor (Civil Work Engineer), Bishkek](https://unjobs.org/vacancies/1794916847840) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Senior/Staff Project Manager, San Jose](https://unjobs.org/vacancies/1794891684209) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
+| [WASH/IPC Specialist](https://unjobs.org/vacancies/1794859325838) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Shelter and Settlement Partnership Officer, Sumy, Ukraine](https://unjobs.org/vacancies/1794027669443) | via UNjobs · construction | – | check | 🟡 Medium |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium |
