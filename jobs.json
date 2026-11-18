@@ -10,8 +10,8 @@
     "muted": "2026-11-17T1"
    },
    "ReliefWeb · shelter": {
-    "last_ok": "",
-    "muted": "2026-11-15T1"
+    "last_ok": "2026-11-18",
+    "muted": ""
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-15",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "Housing Counseling Program Manager",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238191/housing-counseling-program-manager",
+   "deadline": "2027-01-31",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Consortium Project Manager Colombia Bogota",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Oficial Shelter - Caracas (Personal Nacional)",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4238032/oficial-shelter-caracas-personal-nacional",
+   "deadline": "2026-11-20",
+   "fit": "Medium",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Field Officer (WASH) - Mindanao (Filipino Nationals Only)",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "WASH Engineer - Mindanao (Filipino Nationals Only)",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
   {
    "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
    "info": "via UNjobs · construction",
