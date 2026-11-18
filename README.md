@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**165 open jobs** · updated 2026-11-18 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**170 open jobs** · updated 2026-11-18 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -13,6 +13,7 @@
 | [Project Manager (Infrastructure)](https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5099) | via unvacancies · UNOPS | 2026-11-19 | 🔴 1 days | 🟢 High |
 | [Network Automation/DDI Engineer (Associate Infrastructure Engineer)](https://unvacancies.org/jobs/network-automation-ddi-engineer-associate-infrastructure-engineer-WB-39309) | via unvacancies · engineering | 2026-11-19 | 🔴 1 days | 🟢 High |
 | [Infrastructure Engineering Analyst (Firewall Engineering)](https://unvacancies.org/jobs/infrastructure-engineering-analyst-firewall-engineering-WB-39288) | via unvacancies · engineering | 2026-11-20 | 🔴 2 days | 🟢 High |
+| [Construction Management Engineer](https://unvacancies.org/jobs/construction-management-engineer-OPS-5251) 🆕 | via unvacancies · engineering | 2026-11-23 | 🔴 5 days | 🟢 High |
 | [Engineer](https://unvacancies.org/jobs/engineer-N-288009) | via unvacancies · engineering | 2026-11-23 | 🔴 5 days | 🟢 High |
 | [Design Engineer](https://unvacancies.org/jobs/design-engineer-OPS-5053) | via unvacancies · UNOPS | 2026-11-24 | 🔴 6 days | 🟢 High |
 | [Design Engineer, Yangon](https://unjobs.org/vacancies/1794283274464) | via UNjobs · construction | 2026-11-24 | 🔴 6 days | 🟢 High |
@@ -22,6 +23,8 @@
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) 🆕 | via unvacancies · engineering | 2026-11-26 | 8 days | 🟢 High |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) 🆕 | via UNjobs · construction | 2026-11-30 | 12 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 13 days | 🟢 High |
+| [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) 🆕 | via unvacancies · engineering | 2026-12-02 | 14 days | 🟢 High |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) 🆕 | via unvacancies · engineering | 2026-12-02 | 14 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 22 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 22 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) 🆕 | via ReliefWeb · shelter | 2027-01-31 | 74 days | 🟢 High |
@@ -110,6 +113,8 @@
 | [ICT Senior Analyst – ICT Project Management (Data Architect)](https://unvacancies.org/jobs/ict-senior-analyst-ict-project-management-data-architect-OPS-4950) | via unvacancies · UNOPS | 2026-11-19 | 🔴 1 days | 🟡 Medium |
 | [Oficial Shelter - Caracas (Personal Nacional)](https://reliefweb.int/job/4238032/oficial-shelter-caracas-personal-nacional) 🆕 | via ReliefWeb · shelter | 2026-11-20 | 🔴 2 days | 🟡 Medium |
 | [Senior Facilities Management, Infrastructure & Sustainability Consultant](https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000) 🆕 | via unvacancies · engineering | 2026-11-20 | 🔴 2 days | 🟡 Medium |
+| [Local Individual Contractor (Civil Work Engineer)](https://unvacancies.org/jobs/local-individual-contractor-civil-work-engineer-C-288338) 🆕 | via unvacancies · engineering | 2026-11-25 | 🔴 7 days | 🟡 Medium |
+| [Local Individual Contractor (Civil Work Engineer)](https://unvacancies.org/jobs/local-individual-contractor-civil-work-engineer-C-288484) 🆕 | via unvacancies · engineering | 2026-11-25 | 🔴 7 days | 🟡 Medium |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5117) | via unvacancies · engineering | 2026-11-25 | 🔴 7 days | 🟡 Medium |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) 🆕 | via unvacancies · engineering | 2026-11-26 | 8 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 11 days | 🟡 Medium |

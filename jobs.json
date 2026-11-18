@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-16T1"
+    "muted": "2026-11-18T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -26,7 +26,7 @@
     "muted": "2026-11-15T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-16",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,51 @@
   }
  },
  "jobs": [
+  {
+   "title": "ET Consultant (Associate Solutions Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-OPS-5183",
+   "deadline": "2026-12-02",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/construction-management-engineer-OPS-5251",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/local-individual-contractor-civil-work-engineer-C-288338",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "found": "2026-11-18",
+   "status": "open"
+  },
+  {
+   "title": "Local Individual Contractor (Civil Work Engineer)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/local-individual-contractor-civil-work-engineer-C-288484",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "found": "2026-11-18",
+   "status": "open"
+  },
   {
    "title": "Housing Counseling Program Manager",
    "info": "via ReliefWeb · shelter",
