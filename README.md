@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**175 open jobs** · updated 2026-11-19 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**180 open jobs** · updated 2026-11-19 · six agents check every 5 minutes · sources working today: 6 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -16,11 +16,14 @@
 | [Deputy Project Manager](https://unvacancies.org/jobs/deputy-project-manager-OPS-5217) 🆕 | via unvacancies · UNOPS | 2026-11-24 | 🔴 5 days | 🟢 High |
 | [Design Engineer](https://unvacancies.org/jobs/design-engineer-OPS-5053) | via unvacancies · UNOPS | 2026-11-24 | 🔴 5 days | 🟢 High |
 | [Design Engineer, Yangon](https://unjobs.org/vacancies/1794283274464) | via UNjobs · construction | 2026-11-24 | 🔴 5 days | 🟢 High |
+| [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) 🆕 | via ReliefWeb · shelter | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [Senior Director, Infrastructure](https://reliefweb.int/job/4238587/senior-director-infrastructure) 🆕 | via ReliefWeb · infrastructure | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [Senior Investment Officer, Infrastructure, the Caribbean Region](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-the-caribbean-region-WB-39419) | via unvacancies · engineering | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 7 days | 🟢 High |
+| [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 8 days | 🟢 High |
+| [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) 🆕 | via unvacancies · UN-Habitat | 2026-11-27 | 8 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 10 days | 🟢 High |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) 🆕 | via UNjobs · construction | 2026-11-30 | 11 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 12 days | 🟢 High |
@@ -28,8 +31,10 @@
 | [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) 🆕 | via unvacancies · engineering | 2026-12-02 | 13 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) 🆕 | via unvacancies · engineering | 2026-12-02 | 13 days | 🟢 High |
 | [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) 🆕 | via unvacancies · UNOPS | 2026-12-03 | 14 days | 🟢 High |
+| [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 21 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 21 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 21 days | 🟢 High |
+| [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) 🆕 | via ReliefWeb · shelter | 2026-12-15 | 26 days | 🟢 High |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · infrastructure | 2026-12-17 | 28 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) 🆕 | via ReliefWeb · shelter | 2027-01-31 | 73 days | 🟢 High |
 | [WASH and Sanitation Specialist](https://unjobs.org/vacancies/1794931294612) 🆕 | via UNjobs · construction | – | check | 🟢 High |
