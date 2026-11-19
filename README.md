@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**170 open jobs** · updated 2026-11-19 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**175 open jobs** · updated 2026-11-19 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -21,12 +21,16 @@
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 🔴 6 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 7 days | 🟢 High |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 10 days | 🟢 High |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) 🆕 | via UNjobs · construction | 2026-11-30 | 11 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 12 days | 🟢 High |
+| [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via ReliefWeb · infrastructure | 2026-12-02 | 13 days | 🟢 High |
 | [ET Consultant (Associate Solutions Engineer)](https://unvacancies.org/jobs/e-t-consultant-associate-solutions-engineer-WB-39327) 🆕 | via unvacancies · engineering | 2026-12-02 | 13 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5183) 🆕 | via unvacancies · engineering | 2026-12-02 | 13 days | 🟢 High |
+| [Lead Civil Engineer](https://unvacancies.org/jobs/lead-civil-engineer-OPS-5097) 🆕 | via unvacancies · UNOPS | 2026-12-03 | 14 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 21 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 21 days | 🟢 High |
+| [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) 🆕 | via ReliefWeb · infrastructure | 2026-12-17 | 28 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) 🆕 | via ReliefWeb · shelter | 2027-01-31 | 73 days | 🟢 High |
 | [WASH and Sanitation Specialist](https://unjobs.org/vacancies/1794931294612) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Construction & Site Manager, Cúcuta, Colombia](https://unjobs.org/vacancies/1794331307792) | via UNjobs · construction | – | check | 🟢 High |
@@ -118,6 +122,7 @@
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) | via unvacancies · engineering | 2026-11-26 | 🔴 7 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) 🆕 | via ReliefWeb · shelter | 2026-11-29 | 10 days | 🟡 Medium |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) 🆕 | via ReliefWeb · infrastructure | 2026-11-30 | 11 days | 🟡 Medium |
+| [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via ReliefWeb · infrastructure | 2026-12-03 | 14 days | 🟡 Medium |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794934859224) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Local Individual Contractor (Civil Work Engineer), Dushanbe](https://unjobs.org/vacancies/1794916848324) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Local Individual Contractor (Civil Work Engineer), Bishkek](https://unjobs.org/vacancies/1794916847840) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
