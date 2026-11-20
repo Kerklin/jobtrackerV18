@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**185 open jobs** · updated 2026-11-20 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**188 open jobs** · updated 2026-11-20 · six agents check every 5 minutes · sources working today: 5 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -24,6 +24,9 @@
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 🔴 5 days | 🟢 High |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) 🆕 | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 6 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 6 days | 🟢 High |
+| [WASH & Shelter Data entry - Deir ez-Zor](https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 7 days | 🟢 High |
+| [WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 7 days | 🟢 High |
+| [WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · shelter | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [ERL Site Engineer - AL Mayadin](https://reliefweb.int/job/4239165/erl-site-engineer-al-mayadin) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [ERL Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239145/erl-project-manager-deir-ez-zor) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |
 | [Shelter Site Engineer - AL Mayadin - AL-Bukamal](https://reliefweb.int/job/4239136/shelter-site-engineer-al-mayadin-al-bukamal) 🆕 | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 7 days | 🟢 High |

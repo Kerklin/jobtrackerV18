@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "WASH & Shelter Data entry - Deir ez-Zor",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239143/wash-shelter-data-entry-deir-ez-zor",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "WASH & Shelter Field monitor - AL Mayadin - AL-Bukamal - Tabni",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239139/wash-shelter-field-monitor-al-mayadin-al-bukamal-tabni",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
+  {
+   "title": "WASH & Shelter Project Officer - AL Mayadin - AL-Bukamal",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4239122/wash-shelter-project-officer-al-mayadin-al-bukamal",
+   "deadline": "2026-11-27",
+   "fit": "High",
+   "found": "2026-11-20",
+   "status": "open"
+  },
   {
    "title": "Regional Housing Ecosystem & Partnership Associate Director",
    "info": "via ReliefWeb · infrastructure",
