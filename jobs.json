@@ -18,8 +18,8 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "",
-    "muted": "2026-11-17T3"
+    "last_ok": "2026-11-21",
+    "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,114 @@
   }
  },
  "jobs": [
+  {
+   "title": "Release Train Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4238504/release-train-engineer",
+   "deadline": "2026-11-23",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Roads Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4237601/roads-engineer",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "AI Platform Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4233231/ai-platform-engineer",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term",
+   "deadline": "2026-12-08",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Field Monitoring Engineer",
+   "info": "via ReliefWeb · engineer",
+   "link": "https://reliefweb.int/job/4219684/field-monitoring-engineer",
+   "deadline": "2026-12-31",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795194048635",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Nuclear Engineer (PRIS), IAEA Headquarters, Austria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150895962",
+   "deadline": "",
+   "fit": "Low",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150888034",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150864310",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "CONTRACTOR FOR CONSTRUCTION, INSTALLATION AND COMMISSIONING OF FOUR, Kathmandu, Nepal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795098271507",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Shelter Specialist, Kasulu, Tanzania",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795082503084",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
+  {
+   "title": "Infrastructure Coordinator, Kisangani, Democratic Republic of the Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795016943231",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-21",
+   "status": "open"
+  },
   {
    "title": "Oficial WASH Shelter & Infrastructure - Maracaibo",
    "info": "via ReliefWeb · shelter",
