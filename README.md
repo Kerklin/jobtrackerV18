@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**204 open jobs** · updated 2026-11-23 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**208 open jobs** · updated 2026-11-23 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -35,9 +35,12 @@
 | [WASH site engineer - AL Mayadin - AL-Bukamal - Tabni](https://reliefweb.int/job/4239134/wash-site-engineer-al-mayadin-al-bukamal-tabni) | via ReliefWeb · infrastructure | 2026-11-27 | 🔴 4 days | 🟢 High |
 | [WASH & Shelter Project Manager - Deir ez-Zor](https://reliefweb.int/job/4239114/wash-shelter-project-manager-deir-ez-zor) | via ReliefWeb · shelter | 2026-11-27 | 🔴 4 days | 🟢 High |
 | [Junior Housing and Urban Resilience Consultant](https://unvacancies.org/jobs/junior-housing-and-urban-resilience-consultant-t-288412) | via unvacancies · UN-Habitat | 2026-11-27 | 🔴 4 days | 🟢 High |
+| [Lead Engineer (Electrical)](https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Trade ETL Engineer](https://unvacancies.org/jobs/trade-etl-engineer-A-288739) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Roads Engineer](https://reliefweb.int/job/4237601/roads-engineer) 🆕 | via ReliefWeb · engineer | 2026-11-29 | 🔴 6 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) | via unvacancies · UNOPS | 2026-11-29 | 🔴 6 days | 🟢 High |
+| [Project Manager (EU4Commerce)](https://unvacancies.org/jobs/project-manager-eu4commerce-OPS-5031) 🆕 | via unvacancies · UNOPS | 2026-11-30 | 🔴 7 days | 🟢 High |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033) 🆕 | via unvacancies · UNOPS | 2026-11-30 | 🔴 7 days | 🟢 High |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | 2026-11-30 | 🔴 7 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 8 days | 🟢 High |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) | via ReliefWeb · infrastructure | 2026-12-02 | 9 days | 🟢 High |
@@ -51,6 +54,7 @@
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 17 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 17 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 17 days | 🟢 High |
+| [Shelter and WASH Specialist Lebanon](https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon) 🆕 | via ReliefWeb · infrastructure | 2026-12-14 | 21 days | 🟢 High |
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) | via ReliefWeb · shelter | 2026-12-15 | 22 days | 🟢 High |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) | via ReliefWeb · infrastructure | 2026-12-17 | 24 days | 🟢 High |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) 🆕 | via ReliefWeb · engineer | 2026-12-31 | 38 days | 🟢 High |

@@ -6,7 +6,7 @@
     "muted": ""
    },
    "ReliefWeb · infrastructure": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "ReliefWeb · shelter": {
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -52,6 +52,42 @@
   }
  },
  "jobs": [
+  {
+   "title": "Shelter and WASH Specialist Lebanon",
+   "info": "via ReliefWeb · infrastructure",
+   "link": "https://reliefweb.int/job/4239449/shelter-and-wash-specialist-lebanon",
+   "deadline": "2026-12-14",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (EU4Commerce)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-eu4commerce-OPS-5031",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
+  {
+   "title": "Lead Engineer (Electrical)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/lead-engineer-electrical-OPS-5276",
+   "deadline": "2026-11-29",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-23",
+   "status": "open"
+  },
   {
    "title": "RISE Digital Infrastructure Consultant, Nationals only, 12 months, Nairobi, office-based + travel",
    "info": "via unvacancies · engineering",
