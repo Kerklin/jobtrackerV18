@@ -22,8 +22,8 @@
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "",
-    "muted": "2026-11-20T0"
+    "last_ok": "2026-11-23",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-22",
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-23",
     "muted": ""
    }
   }
@@ -2244,24 +2244,6 @@
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791813713952",
    "deadline": "",
-   "fit": "High",
-   "found": "2026-10-13",
-   "status": "open"
-  },
-  {
-   "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791805949717",
-   "deadline": "2026-10-23",
-   "fit": "High",
-   "found": "2026-10-13",
-   "status": "open"
-  },
-  {
-   "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791806017218",
-   "deadline": "2026-10-23",
    "fit": "High",
    "found": "2026-10-13",
    "status": "open"
