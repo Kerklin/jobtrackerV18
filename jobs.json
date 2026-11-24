@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,87 @@
   }
  },
  "jobs": [
+  {
+   "title": "Staff Mechanical Engineer, Factory Engineering, San Francisco, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795496472813",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure – Oil, Gas and Just Energy Transition, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795496471047",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Senior Manager, Sustainable Infrastructure – Oil, Gas and Just Energy Transition, London",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795496470161",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795410065168",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Lead Engineer, East Jerusalem, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795420885300",
+   "deadline": "2026-11-30",
+   "fit": "Medium",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (EU4Commerce), East Jerusalem",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795428091703",
+   "deadline": "2026-11-30",
+   "fit": "Medium",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Gaza, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795161687376",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Engineer, Tshikapa, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795161687773",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-24",
+   "status": "open"
+  },
+  {
+   "title": "Construction Management Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795176082720",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-24",
+   "status": "open"
+  },
   {
    "title": "Shelter and WASH Specialist Lebanon",
    "info": "via ReliefWeb · infrastructure",
