@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**211 open jobs** · updated 2026-11-25 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
+**213 open jobs** · updated 2026-11-25 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -149,8 +149,10 @@
 | [Construction Management Lead Engineer, East Jerusalem, occupied Palestinian territory](https://unjobs.org/vacancies/1795420885300) 🆕 | via UNjobs · construction | 2026-11-30 | 🔴 5 days | 🟡 Medium |
 | [Project Manager (EU4Commerce), East Jerusalem](https://unjobs.org/vacancies/1795428091703) 🆕 | via UNjobs · construction | 2026-11-30 | 🔴 5 days | 🟡 Medium |
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 5 days | 🟡 Medium |
+| [Cash and Markets Project Manager Ukraine - open to internal candidates](https://reliefweb.int/job/4239984/cash-and-markets-project-manager-ukraine-open-internal-candidates) 🆕 | via ReliefWeb · shelter | 2026-12-02 | 🔴 7 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · infrastructure | 2026-12-03 | 8 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) | via unvacancies · engineering | 2026-12-06 | 11 days | 🟡 Medium |
+| [Social Housing Policy and Strategy Consultant](https://reliefweb.int/job/4239800/social-housing-policy-and-strategy-consultant) 🆕 | via ReliefWeb · shelter | 2026-12-30 | 35 days | 🟡 Medium |
 | [Construction Management Engineer, Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1795161687773) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Construction Management Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1795176082720) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) | via UNjobs · construction | – | check | 🟡 Medium |
