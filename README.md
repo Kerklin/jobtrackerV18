@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**210 open jobs** · updated 2026-11-25 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**211 open jobs** · updated 2026-11-25 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -15,6 +15,7 @@
 | [Senior Investment Officer, Infrastructure, the Caribbean Region](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-the-caribbean-region-WB-39419) | via unvacancies · engineering | 2026-11-25 | 🔴 0 days | 🟢 High |
 | [Operating Engineer, Plant Operations](https://unvacancies.org/jobs/operating-engineer-plant-operations-WB-39324) | via unvacancies · engineering | 2026-11-25 | 🔴 0 days | 🟢 High |
 | [Senior Director, Infrastructure](https://unvacancies.org/jobs/senior-director-infrastructure-OPS-5070) | via unvacancies · UNOPS | 2026-11-25 | 🔴 0 days | 🟢 High |
+| [Independent Infrastructure and Service Delivery Specialist Consultancy Services](https://reliefweb.int/job/4239687/independent-infrastructure-and-service-delivery-specialist-consultancy-services) 🆕 | via ReliefWeb · shelter | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5300) | via unvacancies · UNOPS | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [Regional Housing Ecosystem & Partnership Associate Director](https://reliefweb.int/job/4239148/regional-housing-ecosystem-partnership-associate-director) | via ReliefWeb · infrastructure | 2026-11-26 | 🔴 1 days | 🟢 High |
 | [ET Consultant – Coastal Infrastructure Engineer](https://unvacancies.org/jobs/e-t-consultant-coastal-infrastructure-engineer-WB-39137) | via unvacancies · engineering | 2026-11-26 | 🔴 1 days | 🟢 High |
