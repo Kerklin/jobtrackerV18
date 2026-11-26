@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**209 open jobs** · updated 2026-11-26 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**218 open jobs** · updated 2026-11-26 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -42,6 +42,7 @@
 | [Purchaser Engineer, Beirut](https://unjobs.org/vacancies/1795582887512) 🆕 | via UNjobs · construction | 2026-12-07 | 11 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 12 days | 🟢 High |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 13 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 14 days | 🟢 High |
@@ -139,6 +140,11 @@
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | check | 🟢 High |
 | [Civil Engineer (Water Resources)](https://unvacancies.org/jobs/civil-engineer-water-resources-infrastructure-development-and-management--2602066) | via unvacancies · engineering | – | check | 🟢 High |
 | [(Associate) Investment Officer, Infrastructure](https://unvacancies.org/jobs/associate-investment-officer-infrastructure-guatemala-WB-39436) | via unvacancies · engineering | 2026-11-26 | 🔴 0 days | 🟡 Medium |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5314) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
+| [Mechanical Engineer](https://unvacancies.org/jobs/mechanical-engineer-OPS-5282) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer-OPS-5277) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
+| [Biomedical Engineer](https://unvacancies.org/jobs/biomedical-engineer-OPS-5285) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
+| [Architectural Engineer](https://unvacancies.org/jobs/architectural-engineer-OPS-5279) 🆕 | via unvacancies · engineering | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Oficial WASH Shelter & Infrastructure - Maracaibo](https://reliefweb.int/job/4239329/oficial-wash-shelter-infrastructure-maracaibo) | via ReliefWeb · shelter | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Consortium Project Manager Colombia Bogota](https://reliefweb.int/job/4238139/consortium-project-manager-colombia-bogota) | via ReliefWeb · shelter | 2026-11-29 | 🔴 3 days | 🟡 Medium |
 | [Construction Management Lead Engineer, East Jerusalem, occupied Palestinian territory](https://unjobs.org/vacancies/1795420885300) 🆕 | via UNjobs · construction | 2026-11-30 | 🔴 4 days | 🟡 Medium |
@@ -146,7 +152,10 @@
 | [Humanitarian Mine Action Project Manager (Programme Manager)](https://reliefweb.int/job/4238862/humanitarian-mine-action-project-manager-programme-manager) | via ReliefWeb · infrastructure | 2026-11-30 | 🔴 4 days | 🟡 Medium |
 | [Cash and Markets Project Manager Ukraine - open to internal candidates](https://reliefweb.int/job/4239984/cash-and-markets-project-manager-ukraine-open-internal-candidates) 🆕 | via ReliefWeb · shelter | 2026-12-02 | 🔴 6 days | 🟡 Medium |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) | via ReliefWeb · infrastructure | 2026-12-03 | 🔴 7 days | 🟡 Medium |
+| [Charging Infrastructure & Transport Data Consultant](https://unvacancies.org/jobs/charging-infrastructure-transport-data-consultant-P-289005) 🆕 | via unvacancies · engineering | 2026-12-04 | 8 days | 🟡 Medium |
 | [Mobile Engineer Specialist](https://unvacancies.org/jobs/mobile-engineer-specialist-10213688) | via unvacancies · engineering | 2026-12-06 | 10 days | 🟡 Medium |
+| [Specialiste Wash - RCA](https://reliefweb.int/job/4240008/specialiste-wash-rca) 🆕 | via ReliefWeb · construction | 2026-12-09 | 13 days | 🟡 Medium |
+| [Consultance – Gestionnaire Technique de Projets d’Abri – Shelter Research Unit (SRU) – Afrique de l’Est (AE)](https://reliefweb.int/job/4240135/consultance-gestionnaire-technique-de-projets-dabri-shelter-research-unit-sru-afrique-de-lest-ae) 🆕 | via ReliefWeb · construction | 2026-12-15 | 19 days | 🟡 Medium |
 | [Social Housing Policy and Strategy Consultant](https://reliefweb.int/job/4239800/social-housing-policy-and-strategy-consultant) 🆕 | via ReliefWeb · shelter | 2026-12-30 | 34 days | 🟡 Medium |
 | [Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)](https://unjobs.org/vacancies/1795582870177) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
 | [Construction Management Engineer, Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1795161687773) 🆕 | via UNjobs · construction | – | check | 🟡 Medium |
