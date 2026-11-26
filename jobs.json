@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,69 @@
   }
  },
  "jobs": [
+  {
+   "title": "Procurement and Contract Management Engineer, Port Moresby",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795651287318",
+   "deadline": "2026-12-01",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager, Bangui",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795629754441",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Assistant Technical Officer – WASH, Konduga, Nigeria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582918355",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager (Transactional), Kinshasa",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795593689293",
+   "deadline": "2026-11-30",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Purchaser Engineer, Beirut",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582887512",
+   "deadline": "2026-12-07",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Space Planner & Contracts Analyst, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-2",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582876843",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-26",
+   "status": "open"
+  },
+  {
+   "title": "Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795582870177",
+   "deadline": "",
+   "fit": "Medium",
+   "found": "2026-11-26",
+   "status": "open"
+  },
   {
    "title": "Cash and Markets Project Manager Ukraine - open to internal candidates",
    "info": "via ReliefWeb · shelter",
@@ -2123,15 +2186,6 @@
    "status": "open"
   },
   {
-   "title": "Biomedical Lead Engineer",
-   "info": "via unvacancies · UNOPS",
-   "link": "https://unvacancies.org/jobs/biomedical-lead-engineer-OPS-4796",
-   "deadline": "2026-10-26",
-   "fit": "High",
-   "found": "2026-10-16",
-   "status": "open"
-  },
-  {
    "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1792083873447",
@@ -2408,15 +2462,6 @@
    "deadline": "",
    "fit": "Low",
    "found": "2026-10-13",
-   "status": "open"
-  },
-  {
-   "title": "Field Engineer COFAREADY",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/field-engineer-cofaready-OM-23535",
-   "deadline": "2026-10-26",
-   "fit": "High",
-   "found": "2026-10-11",
    "status": "open"
   },
   {
