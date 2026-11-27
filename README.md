@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**216 open jobs** · updated 2026-11-27 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**219 open jobs** · updated 2026-11-27 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -27,6 +27,7 @@
 | [Project Manager (EU4Commerce)](https://unvacancies.org/jobs/project-manager-eu4commerce-OPS-5031) | via unvacancies · UNOPS | 2026-11-30 | 🔴 3 days | 🟢 High |
 | [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-5033) | via unvacancies · UNOPS | 2026-11-30 | 🔴 3 days | 🟢 High |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | 2026-11-30 | 🔴 3 days | 🟢 High |
+| [Procurement and Contract Management Engineer](https://unvacancies.org/jobs/procurement-and-contract-management-engineer-OPS-5336) 🆕 | via unvacancies · engineering | 2026-12-01 | 🔴 4 days | 🟢 High |
 | [Procurement and Contract Management Engineer, Port Moresby](https://unjobs.org/vacancies/1795651287318) 🆕 | via UNjobs · construction | 2026-12-01 | 🔴 4 days | 🟢 High |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 🔴 4 days | 🟢 High |
 | [Senior Project Manager (Health Systems)](https://unvacancies.org/jobs/senior-project-manager-health-systems-OPS-5253) 🆕 | via unvacancies · UNOPS | 2026-12-02 | 🔴 5 days | 🟢 High |
@@ -40,7 +41,9 @@
 | [Purchaser Engineer, Beirut](https://unjobs.org/vacancies/1795582887512) 🆕 | via UNjobs · construction | 2026-12-07 | 10 days | 🟢 High |
 | [AI Platform Engineer](https://reliefweb.int/job/4233231/ai-platform-engineer) | via ReliefWeb · engineer | 2026-12-08 | 11 days | 🟢 High |
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 11 days | 🟢 High |
+| [ET Consultant, Investment Analyst, Infrastructure](https://unvacancies.org/jobs/e-t-consultant-investment-analyst-infrastructure-panama-WB-39616) 🆕 | via unvacancies · engineering | 2026-12-09 | 12 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 12 days | 🟢 High |
+| [ET Consultant – Infrastructure Investment](https://unvacancies.org/jobs/e-t-consultant-infrastructure-investment-WB-39626) 🆕 | via unvacancies · engineering | 2026-12-10 | 13 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 13 days | 🟢 High |
 | [Field Officer (WASH) - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237882/field-officer-wash-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 13 days | 🟢 High |
 | [WASH Engineer - Mindanao (Filipino Nationals Only)](https://reliefweb.int/job/4237881/wash-engineer-mindanao-filipino-nationals-only) | via ReliefWeb · shelter | 2026-12-10 | 13 days | 🟢 High |

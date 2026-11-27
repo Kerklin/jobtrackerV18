@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "2026-11-26",
-    "muted": ""
+    "muted": "2026-11-27T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "2026-11-27",
@@ -26,7 +26,7 @@
     "muted": "2026-11-26T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "ET Consultant – Infrastructure Investment",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-infrastructure-investment-WB-39626",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-27",
+   "status": "open"
+  },
+  {
+   "title": "Procurement and Contract Management Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/procurement-and-contract-management-engineer-OPS-5336",
+   "deadline": "2026-12-01",
+   "fit": "High",
+   "found": "2026-11-27",
+   "status": "open"
+  },
+  {
+   "title": "ET Consultant, Investment Analyst, Infrastructure",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/e-t-consultant-investment-analyst-infrastructure-panama-WB-39616",
+   "deadline": "2026-12-09",
+   "fit": "High",
+   "found": "2026-11-27",
+   "status": "open"
+  },
   {
    "title": "Project Manager - Ukraine",
    "info": "via ReliefWeb · infrastructure",
