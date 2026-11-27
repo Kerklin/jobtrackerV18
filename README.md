@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**219 open jobs** · updated 2026-11-27 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
+**220 open jobs** · updated 2026-11-27 · six agents check every 5 minutes · sources working today: 3 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -51,6 +51,7 @@
 | [Programme Manager Ukraine](https://reliefweb.int/job/4238714/programme-manager-ukraine) | via ReliefWeb · shelter | 2026-12-15 | 18 days | 🟢 High |
 | [WATER AND SANITATION MANAGER - CONSTRUCTION (M/F/D)](https://reliefweb.int/job/4238906/water-and-sanitation-manager-construction-mfd) | via ReliefWeb · infrastructure | 2026-12-17 | 20 days | 🟢 High |
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 34 days | 🟢 High |
+| [Project Manager](https://reliefweb.int/job/4240232/project-manager) 🆕 | via ReliefWeb · infrastructure | 2027-01-10 | 44 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) | via ReliefWeb · shelter | 2027-01-31 | 65 days | 🟢 High |
 | [Assistant Technical Officer – WASH, Konduga, Nigeria](https://unjobs.org/vacancies/1795582918355) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Space Planner & Contracts Analyst, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-2](https://unjobs.org/vacancies/1795582876843) 🆕 | via UNjobs · construction | – | check | 🟢 High |
