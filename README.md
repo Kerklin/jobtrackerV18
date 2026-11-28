@@ -2,7 +2,7 @@
 
 > ⚠️ **Email not usable: cannot reach Gmail (SMTPServerDisconnected) – see SETUP.md, 'Email problems'**
 
-**213 open jobs** · updated 2026-11-28 · six agents check every 5 minutes · sources working today: 2 of 12 · AI today: 0 of 130 requests
+**219 open jobs** · updated 2026-11-28 · six agents check every 5 minutes · sources working today: 4 of 12 · AI today: 0 of 130 requests
 
 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting. Fit scores, application packs and employer emails are delivered privately to your Gmail and are not shown here.
 
@@ -35,6 +35,7 @@
 | [Rwanda Construction Quality Assurance and Quality Check Engineer (Fixed-Term)](https://reliefweb.int/job/4228835/rwanda-construction-quality-assurance-and-quality-check-engineer-fixed-term) | via ReliefWeb · engineer | 2026-12-08 | 10 days | 🟢 High |
 | [ET Consultant, Investment Analyst, Infrastructure](https://unvacancies.org/jobs/e-t-consultant-investment-analyst-infrastructure-panama-WB-39616) 🆕 | via unvacancies · engineering | 2026-12-09 | 11 days | 🟢 High |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · engineering | 2026-12-09 | 11 days | 🟢 High |
+| [WatHab Energy Project Manager](https://unjobs.org/vacancies/1795842091663) 🆕 | via UNjobs · construction | 2026-12-10 | 12 days | 🟢 High |
 | [Protection from Violence Project Manager South-Central Syria](https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria) 🆕 | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High |
 | [ET Consultant – Infrastructure Investment](https://unvacancies.org/jobs/e-t-consultant-infrastructure-investment-WB-39626) 🆕 | via unvacancies · engineering | 2026-12-10 | 12 days | 🟢 High |
 | [Project Manager ATLAS - Sudan](https://reliefweb.int/job/4239070/project-manager-atlas-sudan) | via ReliefWeb · shelter | 2026-12-10 | 12 days | 🟢 High |
@@ -46,6 +47,11 @@
 | [Field Monitoring Engineer](https://reliefweb.int/job/4219684/field-monitoring-engineer) | via ReliefWeb · engineer | 2026-12-31 | 33 days | 🟢 High |
 | [Project Manager](https://reliefweb.int/job/4240232/project-manager) 🆕 | via ReliefWeb · infrastructure | 2027-01-10 | 43 days | 🟢 High |
 | [Housing Counseling Program Manager](https://reliefweb.int/job/4238191/housing-counseling-program-manager) | via ReliefWeb · shelter | 2027-01-31 | 64 days | 🟢 High |
+| [E T Consultant - Coastal Infrastructure Engineer, New Delhi](https://unjobs.org/vacancies/1795842068853) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Officer (NO-1), TA (129 days), #139653, Maiduguri, Nigeria - WCAR](https://unjobs.org/vacancies/1795798843261) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [Health Project Manager, Palestine](https://unjobs.org/vacancies/1795755693218) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Associate, Cox's Bazaar, Bangladesh](https://unjobs.org/vacancies/1795755792998) 🆕 | via UNjobs · construction | – | check | 🟢 High |
+| [WASH Associate, Cox's Bazaar, Bangladesh](https://unjobs.org/vacancies/1795755792143) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Assistant Technical Officer – WASH, Konduga, Nigeria](https://unjobs.org/vacancies/1795582918355) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Space Planner & Contracts Analyst, Facilities and Administrative Services Branch (FASB), Division for Management Services (DMS), New York, P-2](https://unjobs.org/vacancies/1795582876843) 🆕 | via UNjobs · construction | – | check | 🟢 High |
 | [Staff Mechanical Engineer, Factory Engineering, San Francisco, United States](https://unjobs.org/vacancies/1795496472813) | via UNjobs · construction | – | check | 🟢 High |

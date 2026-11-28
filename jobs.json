@@ -18,7 +18,7 @@
     "muted": ""
    },
    "ReliefWeb · engineer": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · Bosnia and Herzegovina": {
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNOPS careers": {
@@ -52,6 +52,60 @@
   }
  },
  "jobs": [
+  {
+   "title": "WatHab Energy Project Manager",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795842091663",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "E T Consultant - Coastal Infrastructure Engineer, New Delhi",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795842068853",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "WASH Officer (NO-1), TA (129 days), #139653, Maiduguri, Nigeria - WCAR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795798843261",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Health Project Manager, Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795755693218",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "WASH Associate, Cox's Bazaar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795755792998",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "WASH Associate, Cox's Bazaar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795755792143",
+   "deadline": "",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
   {
    "title": "Protection from Violence (PFV) Project Manager North-East Syria",
    "info": "via ReliefWeb · shelter",
