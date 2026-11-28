@@ -10,7 +10,7 @@
     "muted": ""
    },
    "ReliefWeb · shelter": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "ReliefWeb · architect": {
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -52,6 +52,33 @@
   }
  },
  "jobs": [
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-East Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240125/protection-violence-pfv-project-manager-north-east-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Protection from Violence (PFV) Project Manager North-West Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240124/protection-violence-pfv-project-manager-north-west-syria",
+   "deadline": "2026-12-05",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
+  {
+   "title": "Protection from Violence Project Manager South-Central Syria",
+   "info": "via ReliefWeb · shelter",
+   "link": "https://reliefweb.int/job/4240123/protection-violence-project-manager-south-central-syria",
+   "deadline": "2026-12-10",
+   "fit": "High",
+   "found": "2026-11-28",
+   "status": "open"
+  },
   {
    "title": "Project Manager",
    "info": "via ReliefWeb · infrastructure",
@@ -1736,15 +1763,6 @@
    "status": "open"
   },
   {
-   "title": "Resident Engineer, Dhusamareb, Somalia",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1793049721853",
-   "deadline": "2026-10-28",
-   "fit": "High",
-   "found": "2026-10-27",
-   "status": "open"
-  },
-  {
    "title": "Consultant State Engineer, Enugu, Nigeria",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1793034049788",
@@ -2285,37 +2303,10 @@
    "status": "open"
   },
   {
-   "title": "Field Office Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/field-office-engineer-for-internal-candidates-fixed-term-icip-fo-west-bank-grade-A-285125",
-   "deadline": "2026-10-28",
-   "fit": "Medium",
-   "found": "2026-10-16",
-   "status": "open"
-  },
-  {
    "title": "Team Leader IT Infrastructure – ICTP",
    "info": "via unvacancies · engineering",
    "link": "https://unvacancies.org/jobs/team-leader-it-infrastructure-74940957",
    "deadline": "2026-11-16",
-   "fit": "Medium",
-   "found": "2026-10-16",
-   "status": "open"
-  },
-  {
-   "title": "Measurement, Cost and Contracts Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/measurement-cost-and-contracts-engineer-for-internal-candidates-only-A-286610",
-   "deadline": "2026-10-28",
-   "fit": "Medium",
-   "found": "2026-10-16",
-   "status": "open"
-  },
-  {
-   "title": "Technical Engineer Consultant",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343",
-   "deadline": "2026-10-28",
    "fit": "Medium",
    "found": "2026-10-16",
    "status": "open"
